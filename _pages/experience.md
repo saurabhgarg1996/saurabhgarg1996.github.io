@@ -28,3 +28,6 @@ author_profile: true
    * Quantum Physics and Application \| Prof. Aftab Alam (PH 107)
       * Involved in setting up assignments, examinations, evaluating answer sheets and helping students by conducting tutorial sessions
 
+## Leadership Experience
+ * Launched an Online Learning Youtube Channel to help students of Class 10th or below under National Service Scheme Programme
+ * Video on Compound Interest in the Hindi Language crossed 500K views on Youtube
