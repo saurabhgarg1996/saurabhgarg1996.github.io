@@ -20,7 +20,7 @@ author_profile: true
   
   
 ## Teaching
-* ### Undergraduate Teaching Assistant, IIT Bombay
+* **Undergraduate Teaching Assistant, IIT Bombay** 
    * Introduction to Machine Learning \| Prof. Preethi Jyothi(CS 419)
    * Data Analysis and Interpretation \| Prof. Suyash Awate (CS 215)
    * Computer Programming and Utilisation \| Prof. Sunita Sarawagi (CS 101)
