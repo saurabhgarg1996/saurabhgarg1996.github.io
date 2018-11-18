@@ -3,8 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Work Experience"
-    url: /talks/    
 
   - title: "Research Projects"
     url: /projects/    
@@ -13,7 +11,7 @@ main:
     url: /academics/
         
   - title: "CV"
-    url: /cv/
+    url: /files/Short_CV.pdf
     
   - title: "Contact"
     url: /contact/
