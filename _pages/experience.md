@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
-##Work experience
-* ###End to End Orchestration and Network Slice Management for 5G \| September 2018 - Ongoing  
+## Work experience
+* ### End to End Orchestration and Network Slice Management for 5G \| September 2018 - Ongoing  
   Cloud Lab Samsung HQ, South Korea   
    * sds   
 
@@ -19,8 +19,8 @@ author_profile: true
 
   
   
-##Teaching
-* ###Undergraduate Teaching Assistant, IIT Bombay
+## Teaching
+* ### Undergraduate Teaching Assistant, IIT Bombay
    * Introduction to Machine Learning \| Prof. Preethi Jyothi(CS 419)
    * Data Analysis and Interpretation \| Prof. Suyash Awate (CS 215)
    * Computer Programming and Utilisation \| Prof. Sunita Sarawagi (CS 101)
