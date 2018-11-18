@@ -8,21 +8,19 @@ author_profile: true
 {% include base_path %}
 
 
-Work experience
-======
-* End to End Orchestration and Network Slice Management for 5G \| September 2018 - Ongoing  
-  CLoud Lab Samsung HQ, South Korea   
+##Work experience
+* ###End to End Orchestration and Network Slice Management for 5G \| September 2018 - Ongoing  
+  Cloud Lab Samsung HQ, South Korea   
    * sds   
 
-* SDN and OpenFlow conformance \| Summers 2017   
+* ###SDN and OpenFlow conformance \| Summers 2017   
   Research Engineering Internship \| Cloud Lab Samsung HQ, South Korea
   * Studied Software Defined Networking (SDN) and designed conformance testbed on Open Network Operating System (ONOS) to test OpenFlow
 
   
   
-Teaching
-======
-* Undergraduate Teaching Assistant, IIT Bombay
+##Teaching
+* ###Undergraduate Teaching Assistant, IIT Bombay
    * Introduction to Machine Learning \| Prof. Preethi Jyothi(CS 419)
    * Data Analysis and Interpretation \| Prof. Suyash Awate (CS 215)
    * Computer Programming and Utilisation \| Prof. Sunita Sarawagi (CS 101)
