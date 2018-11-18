@@ -171,13 +171,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  experience:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  academics:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -192,7 +192,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: academics
     values:
       layout: single
       author_profile: true
@@ -203,7 +203,7 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: experience
     values:
       layout: single
       author_profile: true

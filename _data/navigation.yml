@@ -9,6 +9,8 @@ main:
     
   - title: "Academics"
     url: /academics/
+  - title: "Experience"
+    url: /experience/
         
   - title: "CV"
     url: /files/Short_CV.pdf
