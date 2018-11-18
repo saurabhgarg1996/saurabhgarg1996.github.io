@@ -17,6 +17,17 @@ author_profile: true
 * All India Rank 154 in JEE Advanced 2014
 * All India Rank 93 in JEE Mains 2014 
 
+## Relevant Courses
+
+ * **Machine Learning** :
+    * **Web Search**: Web Search and Mining, Organization of Web Information
+    * **NLP/Speech**: Automatic Speech Recognition, Introduction to Natural Language Processing
+    * **Image Processing**: Medical Image Processing, Digital Image Processing
+    * **Fundamentals**: Optimization, Foundations of Machine Learning, Artificial Intelligence, Data Analysis and Interpretation, Introduction to Probability Theory, Statistical Inference, Regression Analysis, Linear Algebra, Numerical Analysis
+
+ * **Computer Science** : Implementation of programming languages, Operating Systems, Computer Networks, Database and Information Systems, Computer Architecture, Automata theory and logic, Discrete Structures, Software Systems Lab, Data Structures and Algorithms, Design and Analysis of Algorithms, Logic for Computer Science, Digital Logic Design, Abstraction and Paradigms in programming
+
+
 ## Academic Projects
 
 * **From Image Classification to Audio Classification** \| Guide: Prof. Preethi Jyothi,  Autumn 2017
@@ -46,14 +57,4 @@ graphs in the SNAP framework.
   * Distributed password cracker: Built a distributed client-server system where client requests a hashed password to the server, and server divides the job dynamically among workers and returns the cracked password back to the client
   * Surveillance Bot: Designed a robot capable of shooting the desired target automatically using Edge Detection techniques and Control loop feedback mechanism on a microcontroller
   * Library Helpmate Bot: Fabricated a bot that can help curators in maintaining book clusters by using onboard book detection and shortest path line following algorithm in embedded C
-
-## Relevant Courses
-
- * **Machine Learning** : 
-    * **Web Search**: Web Search and Mining, Organization of Web Information
-    * **NLP/Speech**: Automatic Speech Recognition, Introduction to Natural Language Processing
-    * **Image Processing**: Medical Image Processing, Digital Image Processing
-    * **Fundamentals**: Optimization, Foundations of Machine Learning, Artificial Intelligence, Data Analysis and Interpretation, Introduction to Probability Theory, Statistical Inference, Regression Analysis, Linear Algebra, Numerical Analysis 
-
- * **Computer Science** : Implementation of programming languages, Operating Systems, Computer Networks, Database and Information Systems, Computer Architecture, Automata theory and logic, Discrete Structures, Software Systems Lab, Data Structures and Algorithms, Design and Analysis of Algorithms, Logic for Computer Science, Digital Logic Design, Abstraction and Paradigms in programming
 
