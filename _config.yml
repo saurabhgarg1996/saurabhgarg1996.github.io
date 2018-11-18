@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Saurabh Garg"
 title_separator          : "-"
 name                     : &name "Saurabh Garg"
-description              : &description "personal description"
+description              : &description "Saurabh Garg -- Engineer at Samsung Research -- B.Tech in CSE from IITB"
 url                      : https://saurabhgarg1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saurabhgarg1996/saurabhgarg1996.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Saurabh Garg"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Bachelors in Computer Science and Engineering, IIT Bombay, India"
   location         : "Suwon, South Korea"
-  employer         :
+  employer         : "Engineer, Samsung Research Korea"
   googlescholar    : "https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en"
   email            : "garg.saurabh.2014@gmail.com"
   uri              :
@@ -92,20 +92,20 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/saurabhgarg1996" 
   foursquare       :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -223,15 +223,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
