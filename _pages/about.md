@@ -18,6 +18,7 @@ In past, I have worked with [Prof. Suyash Awate](www.cse.iitb.ac.in/~suyash) on 
 During Summer 2017, I did a internship at Samsung Electronics HQ, Korea. Previously, I interned at the Purdue University, US where I worked with [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/) on designing approximation algorithms for weighted b-Matching.
 
 # Updates
+* Dec. 2018: Received Excellence in Research Award from CSE dept, IIT Bombay
 * Nov. 2018: Presented my paper ["Code-Switched Language models using Dual RNNs and Same-Source Pretraining"](https://arxiv.org/abs/1809.01962) at EMNLP 2018, Brussels [(poster)](files/EMNLP_poster_2018.pdf)
 * Oct. 2018: Paper titled ["Neural Architecture for Question Answering Using a Knowledge Graph and Web Corpus"](https://arxiv.org/abs/1706.00973) got accepted at Information Retrieval Journal
 * Sept. 2018: Moved to Suwon, South Korea and joined Samsung Research Korea as Engineer
