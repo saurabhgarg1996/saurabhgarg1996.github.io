@@ -12,7 +12,7 @@ Hello! My name is Saurabh Garg and currently, I am working as a full-time Engine
 
 My Research Interests lie in the field of Machine Learning, specifically Natural Langauge Processing and Information Retrieval. 
 
-In past, I have worked with [Prof. Suyash Awate](www.cse.iitb.ac.in/~suyash) on building Statistical Machine Learning algorithms for exact MCMC samspling as a part of my Bachelor's thesis. During my stay at IITB, I have also spent major time working with [Prof. Preethi Jyothi](www.cse.iitb.ac.in/~pjyothi) on the problem of builing robust langauge models for code switched speech. During Summer 2018, I was fortunate to work with [Prof. Soumen Chakrabarti](www.cse.iitb.ac.in/~soumen) on Question Answering using KG and corpus. 
+In past, I have worked with [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash) on building Statistical Machine Learning algorithms for exact MCMC samspling as a part of my Bachelor's thesis. During my stay at IITB, I have also spent major time working with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi) on the problem of builing robust langauge models for code switched speech. During Summer 2018, I was fortunate to work with [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen) on Question Answering using KG and corpus. 
 
 
 During Summer 2017, I did a internship at Samsung Electronics HQ, Korea. Previously, I interned at the Purdue University, US where I worked with [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/) on designing approximation algorithms for weighted b-Matching.
