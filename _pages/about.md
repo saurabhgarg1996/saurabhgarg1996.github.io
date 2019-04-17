@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage of Saurabh Garg"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! My name is Saurabh Garg and currently, I am working as a full-time Engineer at Samsung Research, Korea. I recently graduated from IIT Bombay, India with major and honors in Computer Science and Engineering and minors in Applied Statitics and Informatics. 
 
-My Research Interests lie in the field of Machine Learning, specifically Natural Langauge Processing and Information Retrieval. 
+My Research Interests lie in the field of Machine Learning, and specifically I have explored Vision, Natural Langauge Processing and Information Retrieval. These days I am exploring deep reinforcement learning.  
 
 In past, I have worked with [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash) on building Statistical Machine Learning algorithms for exact MCMC samspling as a part of my Bachelor's thesis. During my stay at IITB, I have also spent major time working with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi) on the problem of builing robust langauge models for code switched speech. During Summer 2018, I was fortunate to work with [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen) on Question Answering using KG and corpus. 
 
