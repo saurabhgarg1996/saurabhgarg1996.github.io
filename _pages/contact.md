@@ -7,5 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My e-mail ids are: <garg.saurabh.2014@gmail.com> and <sbh.garg@samsung.com>
+Reach me out at sgarg2@cs.cmu.edu. 
+If you are around Pittsburgh, feel free to drop by:
+8206 Gates Hillman Center, CMU 
 
