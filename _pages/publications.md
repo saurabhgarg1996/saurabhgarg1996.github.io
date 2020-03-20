@@ -2,9 +2,11 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+urlcolor: blue
 author_profile: true
 ---
 
+<br/>
 **A Unified View of Label Shift Estimation**   
 Saurabh Garg, Yifan Wu, Sivaraman Balakrishnan, Zachary Lipton  
 Under Submission \[[arxiv](https://arxiv.org/abs/2003.07554)\]
