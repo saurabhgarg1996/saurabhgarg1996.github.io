@@ -3,15 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-
-  - title: "Research Projects"
-    url: /projects/    
-    
-  - title: "Academics"
-    url: /academics/
-  - title: "Experience"
-    url: /experience/
-        
   - title: "CV"
     url: /files/CV.pdf
     
