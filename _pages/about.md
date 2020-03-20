@@ -16,8 +16,8 @@ In the past, I have worked with [Prof. Suyash Awate](https://www.cse.iitb.ac.in/
 During Summer 2017, I did a internship at Samsung Electronics HQ, Korea. Previously, I interned at the Purdue University, US where I worked with [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/) on designing approximation algorithms for weighted b-Matching.
 
 ### Updates
-<div style="height:250px;overflow:auto;border: none !important;">
-<table >
+<div style="height:250px;overflow:auto;">
+<table  border="0" >
 <tr><td> March 2020: </td> <td> New work on label shift is up on arxiv -- <a href="https://arxiv.org/abs/2003.07554">"A Unified View of Label Shift Estimation" </a> </td> </tr>
 <tr><td> June 2019: </td> <td> I will be joining CMU ML Ph.D. in fall 2019. </td></tr> 
 <tr><td> April 2019:</td> <td> My B.Tech thesis titled <a href="https://www.sciencedirect.com/science/article/pii/S1361841518307382?dgcid=rss_sd_all">"Estimating Uncertainty in MRF-based Image Segmentation: An Exact-MCMC Approach"</a> got accepted at Medical Image Analysis 2019 journal </td> </tr>
@@ -33,4 +33,4 @@ During Summer 2017, I did a internship at Samsung Electronics HQ, Korea. Previou
 <tr><td> May 2016:</td> <td> Internship at Purdue Univeristy, US advised by Prof. Alex Pothen</td></tr>
 <tr><td> July 2015:</td> <td> Changed branch from Electrical Engineering to Computer Science Engineering</td></tr> 
 <tr><td> July 2014:</td> <td> Joined IIT Bombay</td></tr> 
-</div>  
+</table>
