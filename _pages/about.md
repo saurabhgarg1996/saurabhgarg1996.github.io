@@ -16,6 +16,11 @@ In the past, I have worked with [Prof. Suyash Awate](https://www.cse.iitb.ac.in/
 During Summer 2017, I did a internship at Samsung Electronics HQ, Korea. Previously, I interned at the Purdue University, US where I worked with [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/) on designing approximation algorithms for weighted b-Matching.
 
 ### Updates
+<style>
+table, tr, td {
+    border: none;
+}
+</style>
 <div style="height:250px;overflow:auto;border:0px;border-collapse: collapse;" >
 <table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 <tr><td> March 2020: </td> <td> New work on label shift is up on arxiv -- <a href="https://arxiv.org/abs/2003.07554">"A Unified View of Label Shift Estimation" </a> </td> </tr>
