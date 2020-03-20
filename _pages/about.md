@@ -17,7 +17,7 @@ During Summer 2017, I did a internship at Samsung Electronics HQ, Korea. Previou
 
 ### Updates
 <div style="height:250px;overflow:auto;" >
-<table  border="0" style="border:0px;" rules="none" >
+<table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 <tr><td> March 2020: </td> <td> New work on label shift is up on arxiv -- <a href="https://arxiv.org/abs/2003.07554">"A Unified View of Label Shift Estimation" </a> </td> </tr>
 <tr><td> June 2019: </td> <td> I will be joining CMU ML Ph.D. in fall 2019. </td></tr> 
 <tr><td> April 2019:</td> <td> My B.Tech thesis titled <a href="https://www.sciencedirect.com/science/article/pii/S1361841518307382?dgcid=rss_sd_all">"Estimating Uncertainty in MRF-based Image Segmentation: An Exact-MCMC Approach"</a> got accepted at Medical Image Analysis 2019 journal </td> </tr>
