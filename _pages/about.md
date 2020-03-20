@@ -24,8 +24,8 @@ table, tr, td {
 <div style="height:250px;overflow:auto;border:0px;border-collapse: collapse;" >
 <table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 <colgroup>
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 80%;">
+       <col span="1" style="width: 12%;">
+       <col span="1" style="width: 88%;">
 </colgroup>
 <tr><td> March 2020: </td> <td> New work on label shift is up on arxiv -- <a href="https://arxiv.org/abs/2003.07554">"A Unified View of Label Shift Estimation" </a> </td> </tr>
 <tr><td> June 2019: </td> <td> I will be joining CMU ML Ph.D. in fall 2019. </td></tr> 
