@@ -173,16 +173,7 @@ kramdown:
 
 # Collections
 collections:
-  experience:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  academics:
-    output: true
-    permalink: /:collection/:path/
-  projects:
     output: true
     permalink: /:collection/:path/
   contact:
@@ -210,15 +201,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -228,34 +210,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _experience
-  - scope:
-      path: ""
-      type: experience
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _academics
-  - scope:
-      path: ""
-      type: academics
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
-
 
 # Sass/SCSS
 sass:
