@@ -10,12 +10,13 @@ author_profile: true
 **A Unified View of Label Shift Estimation**   
 Saurabh Garg, Yifan Wu, Sivaraman Balakrishnan, Zachary Lipton  
 Under Submission \[[<span style="color:blue">arxiv</span>](https://arxiv.org/abs/2003.07554)\]
+\[[<span style="color:red">Contributed Oral Talk</span>]\] at ICML Workshop on Uncertainty in Deep Learning, 2020
 
 
 **Neural Architecture for Question Answering Using a Knowledge Graph and Web Corpus**  
 Uma Sawant, Saurabh Garg, Soumen Chakrabarti, Ganesh Ramakrishnan  
 Information Retrieval Journal, 2019 \[[<span style="color:blue">Paper</span>](https://arxiv.org/abs/1706.00973)\]  
-*Invited Oral Talk* at European Conference on Information Retrieval (ECIR), 2020
+\[[<span style="color:red">Invited Oral Talk</span>]\] at European Conference on Information Retrieval (ECIR), 2020
 
 
 **Estimating Uncertainty in MRF-based Image Segmentation: An Exact-MCMC Approach**  
