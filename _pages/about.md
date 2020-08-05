@@ -15,9 +15,10 @@ In the past, I have worked with [Prof. Suyash Awate](https://www.cse.iitb.ac.in/
 
 During Summer 2017, I did a internship at Samsung Electronics HQ, Korea. Previously, I interned at the Purdue University, US where I worked with [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/) on designing approximation algorithms for weighted b-Matching.
 
-***
+---
 
-### Updates
+### **Updates**
+
 <style>
 table, tr, td {
     border: none;
@@ -29,21 +30,21 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> July 2020: </td> <td> Our work on label shift estimation was accepted as Oral at <a href="https://sites.google.com/view/udlworkshop2020/">ICML UDL 2020</a>. Talk to be released soon <a href="https://arxiv.org/abs/2003.07554">[Full Paper]</a>. </td> </tr>
-<tr><td> April 2020: </td> <td> Our work on Neural Architecture for Question Answering was an invited Oral at <a href="https://ecir2020.org/">ECIR 2020</a> </td> </tr>
-<tr><td> March 2020: </td> <td> New work on label shift is up on arxiv -- <a href="https://arxiv.org/abs/2003.07554">"A Unified View of Label Shift Estimation" </a> </td> </tr>
-<tr><td> June 2019: </td> <td> I will be joining CMU ML Ph.D. in fall 2019. </td></tr> 
-<tr><td> April 2019:</td> <td> My B.Tech thesis titled <a href="https://www.sciencedirect.com/science/article/pii/S1361841518307382?dgcid=rss_sd_all">"Estimating Uncertainty in MRF-based Image Segmentation: An Exact-MCMC Approach"</a> got accepted at Medical Image Analysis 2019 journal </td> </tr>
-<tr><td> Dec. 2018:</td> <td> Received Excellence in Research Award from CSE dept, IIT Bombay</td> </tr>
-<tr><td> Nov. 2018:</td> <td> Presented my paper<a href="https://arxiv.org/abs/1809.01962">"Code-Switched Language models using Dual RNNs and Same-Source Pretraining"</a> at EMNLP 2018, Brussels <a href="files/EMNLP_poster_2018.pdf">(poster)</a></td> </tr>
-<tr><td> Oct. 2018:</td> <td> Paper titled <a href="https://arxiv.org/abs/1706.00973">"Neural Architecture for Question Answering Using a Knowledge Graph and Web Corpus"</a> got accepted at Information Retrieval Journal</td></tr> 
-<tr><td> Sept. 2018:</td> <td> Moved to Suwon, South Korea and joined Samsung Research Korea as Engineer</td> </tr>
-<tr><td> Sept. 2018:</td> <td> Presented my paper <a href="https://arxiv.org/abs/1711.01048" >"Dual Language Models for Code Mixed Speech Recognition"</a> at Interspeech 2018, Hyderabad <a href="files/Interspeech_poster_2018.pdf">(poster)</a></td></tr> 
-<tr><td> Aug. 2018:</td> <td> Graduated from IIT Bombay. </td> </tr>
-<tr><td> May 2018:</td> <td> Paper titled <a href="https://link.springer.com/chapter/10.1007/978-3-030-00928-1_76" > "Uncertainty Estimation in Segmentation with Perfect MCMC Sampling in Bayesian MRFs" </a> got accepted at MICCAI, 2018 <a href = "files/poster_miccai_unc_2018.pdf" >(poster)</a></td></tr>
-<tr><td> Dec 2018:</td> <td> Invited to spend two weeks at Microsoft Research India to work on Indian language technologies with Prof. Preethi Jyothi</td></tr>
-<tr><td> May 2017:</td> <td> Internship @ Samsung Research Korea </td></tr>
-<tr><td> May 2016:</td> <td> Internship at Purdue Univeristy, US advised by Prof. Alex Pothen</td></tr>
-<tr><td> July 2015:</td> <td> Changed branch from Electrical Engineering to Computer Science Engineering</td></tr> 
-<tr><td> July 2014:</td> <td> Joined IIT Bombay</td></tr> 
+<tr><td> <b> July 2020:</b> </b> </td> <td> Our work on label shift estimation was accepted as Oral at <a href="https://sites.google.com/view/udlworkshop2020/">ICML UDL 2020</a>. Talk to be released soon <a href="https://arxiv.org/abs/2003.07554">[Full Paper]</a>. </td> </tr>
+<tr><td><b> April 2020:</b> </td> <td> Our work on Neural Architecture for Question Answering was an invited Oral at <a href="https://ecir2020.org/">ECIR 2020</a> </td> </tr>
+<tr><td><b> March 2020:</b> </td> <td> New work on label shift is up on arxiv -- <a href="https://arxiv.org/abs/2003.07554">"A Unified View of Label Shift Estimation" </a> </td> </tr>
+<tr><td><b> June 2019:</b> </td> <td> I will be joining CMU ML Ph.D. in fall 2019. </td></tr> 
+<tr><td><b> April 2019:</b></td> <td> My B.Tech thesis titled <a href="https://www.sciencedirect.com/science/article/pii/S1361841518307382?dgcid=rss_sd_all">"Estimating Uncertainty in MRF-based Image Segmentation: An Exact-MCMC Approach"</a> got accepted at Medical Image Analysis 2019 journal </td> </tr>
+<tr><td><b> Dec. 2018:</b></td> <td> Received Excellence in Research Award from CSE dept, IIT Bombay</td> </tr>
+<tr><td><b> Nov. 2018:</b></td> <td> Presented my paper<a href="https://arxiv.org/abs/1809.01962">"Code-Switched Language models using Dual RNNs and Same-Source Pretraining"</a> at EMNLP 2018, Brussels <a href="files/EMNLP_poster_2018.pdf">(poster)</a></td> </tr>
+<tr><td><b> Oct. 2018:</b></td> <td> Paper titled <a href="https://arxiv.org/abs/1706.00973">"Neural Architecture for Question Answering Using a Knowledge Graph and Web Corpus"</a> got accepted at Information Retrieval Journal</td></tr> 
+<tr><td><b> Sept. 2018:</b></td> <td> Moved to Suwon, South Korea and joined Samsung Research Korea as Engineer</td> </tr>
+<tr><td><b> Sept. 2018:</b></td> <td> Presented my paper <a href="https://arxiv.org/abs/1711.01048" >"Dual Language Models for Code Mixed Speech Recognition"</a> at Interspeech 2018, Hyderabad <a href="files/Interspeech_poster_2018.pdf">(poster)</a></td></tr> 
+<tr><td><b> Aug. 2018:</b></td> <td> Graduated from IIT Bombay. </td> </tr>
+<tr><td><b> May 2018:</b></td> <td> Paper titled <a href="https://link.springer.com/chapter/10.1007/978-3-030-00928-1_76" > "Uncertainty Estimation in Segmentation with Perfect MCMC Sampling in Bayesian MRFs" </a> got accepted at MICCAI, 2018 <a href = "files/poster_miccai_unc_2018.pdf" >(poster)</a></td></tr>
+<tr><td><b> Dec 2018:</b></td> <td> Invited to spend two weeks at Microsoft Research India to work on Indian language technologies with Prof. Preethi Jyothi</td></tr>
+<tr><td><b> May 2017:</b></td> <td> Internship @ Samsung Research Korea </td></tr>
+<tr><td><b> May 2016:</b></td> <td> Internship at Purdue Univeristy, US advised by Prof. Alex Pothen</td></tr>
+<tr><td><b> July 2015:</b></td> <td> Changed branch from Electrical Engineering to Computer Science Engineering</td></tr> 
+<tr><td><b> July 2014:</b></td> <td> Joined IIT Bombay</td></tr> 
 </table>
