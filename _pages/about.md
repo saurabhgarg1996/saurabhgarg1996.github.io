@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<style>
+a {
+text-decoration: none;
+}
+</style>
 
 Hello! My name is Saurabh Garg and I am a first year PhD student at Machine Learning Department at CMU where I am advised by [Prof. Zachary Lipton](http://zacklipton.com/) and [Prof. Zico Kolter](http://zicokolter.com). I graduated from IIT Bombay, India with major and honors in Computer Science and Engineering and minors in Applied Statitics and Informatics in 2018. My Research Interests broadly lie in the field of Statistical and Robust Machine Learning. I spent one amazing year at Samsung Headquaters, Korea.
 
