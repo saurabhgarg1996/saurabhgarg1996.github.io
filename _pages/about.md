@@ -15,6 +15,8 @@ In the past, I have worked with [Prof. Suyash Awate](https://www.cse.iitb.ac.in/
 
 During Summer 2017, I did a internship at Samsung Electronics HQ, Korea. Previously, I interned at the Purdue University, US where I worked with [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/) on designing approximation algorithms for weighted b-Matching.
 
+***
+
 ### Updates
 <style>
 table, tr, td {
