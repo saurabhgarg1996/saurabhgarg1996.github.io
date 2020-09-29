@@ -9,7 +9,7 @@ author_profile: true
 <br/>
 **A Unified View of Label Shift Estimation**   
 Saurabh Garg, Yifan Wu, Sivaraman Balakrishnan, Zachary Lipton  
-Under Submission \[[<span style="color:blue">arxiv</span>](https://arxiv.org/abs/2003.07554)\]  
+Advances in Neural Information Processing Systems (NeurIPS), 2020 \[[<span style="color:blue">arxiv</span>](https://arxiv.org/abs/2003.07554)\]  
 <span style="color:red">Contributed Talk</span> at ICML Workshop on Uncertainty in Deep Learning, 2020
 
 

@@ -29,9 +29,9 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td><b> Sept 2020:</b> </td> <td> Our work on label shift got accepted at NeurIPs 2020.  <a href="https://arxiv.org/abs/2003.07554">[Paper]</a> </td> </tr>
 <tr><td> <b> July 2020:</b> </td> <td> Our work on label shift estimation was accepted as Oral at <a href="https://sites.google.com/view/udlworkshop2020/">ICML UDL 2020</a>. Talk to be released soon <a href="https://arxiv.org/abs/2003.07554">[Full Paper]</a>. </td> </tr>
 <tr><td><b> April 2020:</b> </td> <td> Our work on Neural Architecture for Question Answering was an invited Oral at <a href="https://ecir2020.org/">ECIR 2020</a> </td> </tr>
-<tr><td><b> March 2020:</b> </td> <td> New work on label shift is up on arxiv -- <a href="https://arxiv.org/abs/2003.07554">"A Unified View of Label Shift Estimation" </a> </td> </tr>
 <tr><td><b> June 2019:</b> </td> <td> I will be joining CMU ML Ph.D. in fall 2019. </td></tr> 
 <tr><td><b> April 2019:</b></td> <td> My B.Tech thesis titled <a href="https://www.sciencedirect.com/science/article/pii/S1361841518307382?dgcid=rss_sd_all">"Estimating Uncertainty in MRF-based Image Segmentation: An Exact-MCMC Approach"</a> got accepted at Medical Image Analysis 2019 journal </td> </tr>
 <tr><td><b> Dec. 2018:</b></td> <td> Received Excellence in Research Award from CSE dept, IIT Bombay</td> </tr>
