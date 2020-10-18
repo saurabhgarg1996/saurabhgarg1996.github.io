@@ -7,6 +7,11 @@ author_profile: true
 ---
 
 <br/>
+**On Proximal Policy Optimization's Heavy-Tailed Gradients**   
+Saurabh Garg, Joshua Zhanson, Emilio Parisotto, Adarsh Prasad, Zico Kolter, Zachary Lipton, Sivaraman Balakrishnan, Ruslan Salakhutdinov, Pradeep Ravikumar    
+(Under Submission)   
+
+
 **A Unified View of Label Shift Estimation**   
 Saurabh Garg, Yifan Wu, Sivaraman Balakrishnan, Zachary Lipton  
 Advances in Neural Information Processing Systems (NeurIPS), 2020 \[[<span style="color:blue">arxiv</span>](https://arxiv.org/abs/2003.07554)\]  
