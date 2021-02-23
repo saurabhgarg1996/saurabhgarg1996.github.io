@@ -9,7 +9,7 @@ author_profile: true
 <br/>
 **On Proximal Policy Optimization's Heavy-Tailed Gradients**   
 Saurabh Garg, Joshua Zhanson, Emilio Parisotto, Adarsh Prasad, Zico Kolter, Zachary Lipton, Sivaraman Balakrishnan, Ruslan Salakhutdinov, Pradeep Ravikumar    
-(Under Submission)   
+(Under Submission) \[[<span style="color:blue">Paper</span>](https://arxiv.org/pdf/2102.10264.pdf)\]   
 
 
 **A Unified View of Label Shift Estimation**   

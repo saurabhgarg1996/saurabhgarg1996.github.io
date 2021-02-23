@@ -29,6 +29,9 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td><b> Feb 2021:</b> </td> <td> Excited to be interning with <a href="https://research.google/people/HanieSedghi/">Hanie Sedghi</a> and <a href="https://www.neyshabur.net/">Behnam Neyshabur</a> at Google Brain during Summer 21</td> </tr>
+<tr><td><b> Feb 2021:</b> </td> <td> Some exciting new work on understanding generalization with unlabeled data will be out soon on arxiv </td> </tr>
+<tr><td><b> Feb 2021:</b> </td> <td> New work on understanding behaviour of gradients in PPO is out on <a href="https://arxiv.org/abs/2102.10264">arxiv</a> </td> </tr>
 <tr><td><b> Sept 2020:</b> </td> <td> Our work on label shift got accepted at NeurIPs 2020.  <a href="https://arxiv.org/abs/2003.07554">[Paper]</a> </td> </tr>
 <tr><td> <b> July 2020:</b> </td> <td> Our work on label shift estimation was accepted as Oral at <a href="https://sites.google.com/view/udlworkshop2020/">ICML UDL 2020</a>. Talk to be released soon <a href="https://arxiv.org/abs/2003.07554">[Full Paper]</a>. </td> </tr>
 <tr><td><b> April 2020:</b> </td> <td> Our work on Neural Architecture for Question Answering was an invited Oral at <a href="https://ecir2020.org/">ECIR 2020</a> </td> </tr>
