@@ -7,10 +7,10 @@ author_profile: true
 ---
 
 <br/>
-**RATT: Leveraging Unlabeled Data to Guarantee Generalization** 
-Saurabh Garg, Siva Balakrishana, Zico Kolter, Zachary Lipton
-(Under Submission) 
-ICLR Workshop on RobustML, 2021
+**RATT: Leveraging Unlabeled Data to Guarantee Generalization**   
+Saurabh Garg, Siva Balakrishana, Zico Kolter, Zachary Lipton   
+(Under Submission)   
+ICLR Workshop on RobustML, 2021   
 
 **On Proximal Policy Optimization's Heavy-Tailed Gradients**   
 Saurabh Garg, Joshua Zhanson, Emilio Parisotto, Adarsh Prasad, Zico Kolter, Zachary Lipton, Sivaraman Balakrishnan, Ruslan Salakhutdinov, Pradeep Ravikumar    
