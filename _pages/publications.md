@@ -9,12 +9,12 @@ author_profile: true
 <br/>
 **RATT: Leveraging Unlabeled Data to Guarantee Generalization**   
 Saurabh Garg, Sivaraman Balakrishnan, Zico Kolter, Zachary Lipton   
-(Under Submission)   
+<span style="color:red">Long Talk</span> at International Conference on Machine Learning (ICML), 2021 
 ICLR Workshop on RobustML, 2021 \[[<span style="color:blue">Paper</span>](https://arxiv.org/abs/2105.00303)\] \[[<span style="color:blue">Poster</span>](https://drive.google.com/file/d/1H25csKq622EDMtw2en-aDQxqNcP1Mcdg/view?usp=sharing)\] 
 
 **On Proximal Policy Optimization's Heavy-Tailed Gradients**   
 Saurabh Garg, Joshua Zhanson, Emilio Parisotto, Adarsh Prasad, Zico Kolter, Zachary Lipton, Sivaraman Balakrishnan, Ruslan Salakhutdinov, Pradeep Ravikumar    
-(Under Submission)    
+International Conference on Machine Learning (ICML), 2021 
 ICLR Workshop on Science and Engineering of Deep Learning, 2021 \[[<span style="color:blue">Paper</span>](https://arxiv.org/pdf/2102.10264.pdf)\] \[[<span style="color:blue">Talk</span>](https://drive.google.com/file/d/1Uvcuqbcv9w2NQNSVoOdoLsDcyf2FpBc3/view?usp=sharing)\] \[[<span style="color:blue">Poster</span>](https://drive.google.com/file/d/1U2GxKvBqEC32vY-DZxnzHT80rj8fePqr/view?usp=sharing)\]
 
 **A Unified View of Label Shift Estimation**   
