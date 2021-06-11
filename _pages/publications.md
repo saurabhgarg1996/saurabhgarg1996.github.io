@@ -7,6 +7,10 @@ author_profile: true
 ---
 
 <br/>
+**Mixture Proportion Estimation and PU Learning:A Modern Approach**  
+Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton  
+Under Submission  
+
 **RATT: Leveraging Unlabeled Data to Guarantee Generalization**   
 Saurabh Garg, Sivaraman Balakrishnan, Zico Kolter, Zachary Lipton   
 <span style="color:red">Long Talk</span> at International Conference on Machine Learning (ICML), 2021   

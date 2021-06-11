@@ -29,6 +29,7 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td> <b> June 2021:</b> </td> <td> Interesting new work on learning from positive and unlabeled data will be out soon on arxiv.</td></tr>
 <tr><td> <b> May 2021:</b> </td> <td> Our work on obtaining generalization bound with unlabeled data got accepted as Long talk at ICML 2021 <a href="https://arxiv.org/abs/2105.00303">[Paper]</a>. Work on understanding heavy tails in PPO also to appear at ICML 2021 <a href="https://arxiv.org/abs/2102.10264">[Paper]</a>.</td></tr>
 <tr><td><b> April 2021:</b> </td> <td> Our work on obtaining generalization gaurantees with unlabeled data will be presented at <a href="https://sites.google.com/connect.hku.hk/robustml-2021/">RobustML Workshop</a> at ICLR 2021 <a href="https://arxiv.org/abs/2105.00303">[Paper]</a> <a href="https://drive.google.com/file/d/1H25csKq622EDMtw2en-aDQxqNcP1Mcdg/view?usp=sharing">[Poster]</a>.  </td></tr> 
 <tr><td><b> April 2021:</b> </td> <td> Our work on understanding behaviour of gradients in PPO will be presented at <a href="https://sites.google.com/view/sedl-workshop/">SEDL Workshop</a> at ICLR 2021. <a href="https://arxiv.org/abs/2102.10264">[Paper]</a> <a href="https://drive.google.com/file/d/1Uvcuqbcv9w2NQNSVoOdoLsDcyf2FpBc3/view?usp=sharing">[Talk]</a> <a href="https://drive.google.com/file/d/1U2GxKvBqEC32vY-DZxnzHT80rj8fePqr/view?usp=sharing">[Poster]</a>. </td></tr> 
