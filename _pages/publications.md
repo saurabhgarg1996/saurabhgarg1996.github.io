@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <br/>
-**Mixture Proportion Estimation and PU Learning:A Modern Approach**  
+**Mixture Proportion Estimation and PU Learning: A Modern Approach**  
 Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton  
 Under Submission  
 
