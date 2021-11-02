@@ -6,34 +6,41 @@ author_profile: true
 urlcolor: blue
 ---
 
+[//]: <> <span style="color:blue">[Paper]</span>() | <span style="color:blue">[Code]</span>() | <span style="color:blue">[Talk]</span>() | <span style="color:blue">[Poster]</span>() | <span style="color:blue">[Summary]</span>() | <span style="color:blue">[Citation]</span>() 
+
+
+
+You can also find publications on <a href="https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en">my Google Scholar profile</a>.
+
 
 **Leveraging Unlabeled Data to Predict Out-of-Distribution Performance**   
 Saurabh Garg, Sivaraman Balakrishnan, Zachary Lipton, Behnam Neyshabur, Hanie Sedghi  
-Under Submission
-[Paper](https://arxiv.org/abs/2111.00980) | [Code](https://github.com/acmi-lab/PU_learning) | [Talk]() | [Poster]() | [Summary]() | [Citation]()
+Under Submission  
 
 **Mixture Proportion Estimation and PU Learning: A Modern Approach**  
 Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton  
 <span style="color:red">Spotlight</span> at Advances in Neural Information Processing Systems (NeurIPS), 2021       
 ICML Workshop on Uncertainty in Deep Learning, 2021   
-[Paper](https://arxiv.org/abs/2111.00980) | [Code](https://github.com/acmi-lab/PU_learning) | [Talk]() | [Poster]() | [Summary]() | [Citation]()
+<span style="color:blue">[Paper]</span>(https://arxiv.org/abs/2111.00980) | <span style="color:blue">[Code]</span>(https://github.com/acmi-lab/PU_learning) | <span style="color:blue">[Talk]</span>() | <span style="color:blue">[Poster]</span>() | <span style="color:blue">[Summary]</span>() | <span style="color:blue">[Citation]</span>() 
 
 **RATT: Leveraging Unlabeled Data to Guarantee Generalization**   
 Saurabh Garg, Sivaraman Balakrishnan, Zico Kolter, Zachary Lipton   
 <span style="color:red">Long Talk</span> at International Conference on Machine Learning (ICML), 2021   
 ICLR Workshop on RobustML, 2021   
-[Paper](https://arxiv.org/abs/2105.00303) | [Code]() | [Talk]() | [Poster](https://drive.google.com/file/d/1H25csKq622EDMtw2en-aDQxqNcP1Mcdg/view?usp=sharing) | [Summary]() | [Citation]() 
+<span style="color:blue">[Paper]</span>(https://arxiv.org/abs/2105.00303) | <span style="color:blue">[Code]</span>() | <span style="color:blue">[Talk]</span>() | <span style="color:blue">[Poster]</span>(https://drive.google.com/file/d/1H25csKq622EDMtw2en-aDQxqNcP1Mcdg/view?usp=sharing) | <span style="color:blue">[Summary]</span>() | <span style="color:blue">[Citation]</span>() 
 
 **On Proximal Policy Optimization's Heavy-Tailed Gradients**   
 Saurabh Garg, Joshua Zhanson, Emilio Parisotto, Adarsh Prasad, Zico Kolter, Zachary Lipton, Sivaraman Balakrishnan, Ruslan Salakhutdinov, Pradeep Ravikumar    
 Short talk at International Conference on Machine Learning (ICML), 2021   
-ICLR Workshop on Science and Engineering of Deep Learning, 2021 \[[<span style="color:blue">Paper</span>](https://arxiv.org/pdf/2102.10264.pdf)\] \[[<span style="color:blue">Talk</span>](https://drive.google.com/file/d/1Uvcuqbcv9w2NQNSVoOdoLsDcyf2FpBc3/view?usp=sharing)\] \[[<span style="color:blue">Poster</span>](https://drive.google.com/file/d/1U2GxKvBqEC32vY-DZxnzHT80rj8fePqr/view?usp=sharing)\]
+ICLR Workshop on Science and Engineering of Deep Learning, 2021    
+[Paper](https://arxiv.org/pdf/2102.10264.pdf) | [Talk](https://drive.google.com/file/d/1Uvcuqbcv9w2NQNSVoOdoLsDcyf2FpBc3/view?usp=sharing) | [Poster](https://drive.google.com/file/d/1U2GxKvBqEC32vY-DZxnzHT80rj8fePqr/view?usp=sharing) | [Summary]() | [Citation]() 
+
 
 **A Unified View of Label Shift Estimation**   
 Saurabh Garg, Yifan Wu, Sivaraman Balakrishnan, Zachary Lipton  
 Advances in Neural Information Processing Systems (NeurIPS), 2020 \[[<span style="color:blue">Paper</span>](https://arxiv.org/abs/2003.07554)\] \[[<span style="color:blue">Poster</span>](https://drive.google.com/file/d/13hpynIYM69nSRqj-7CHdvEdG7amC9phy/view?usp=sharing)\]      
 <span style="color:red">Contributed Talk</span> at ICML Workshop on Uncertainty in Deep Learning, 2020 \[[<span style="color:blue">Talk</span>](https://slideslive.com/38930578/a-unified-view-of-label-shift-estimation?ref=speaker-37449-latest)\]
-
+[Paper](https://arxiv.org/abs/2003.07554) | [Talk](https://drive.google.com/file/d/1Uvcuqbcv9w2NQNSVoOdoLsDcyf2FpBc3/view?usp=sharing) | [Poster](https://drive.google.com/file/d/1U2GxKvBqEC32vY-DZxnzHT80rj8fePqr/view?usp=sharing) | [Summary]() | [Citation]()
 
 **Neural Architecture for Question Answering Using a Knowledge Graph and Web Corpus**  
 Uma Sawant, Saurabh Garg, Soumen Chakrabarti, Ganesh Ramakrishnan  
@@ -63,4 +70,3 @@ Saurabh Garg, Tanmay Parekh, Preethi Jyothi
 Proceedings of Interspeech 2018 (19th Annual Conference of ISCA) \[[<span style="color:blue">Paper</span>](https://www.semanticscholar.org/paper/Dual-Language-Models-for-Code-Switched-Speech-Garg-Parekh/5c0371c3e34722f0fbdf5669c8e5361fac60bbcd)\]
 
 
-You can also find publications on <u><a href="https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en">my Google Scholar profile</a>.
