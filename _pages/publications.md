@@ -35,7 +35,7 @@ ICLR Workshop on Science and Engineering of Deep Learning, 2021
 **A Unified View of Label Shift Estimation**   
 Saurabh Garg, Yifan Wu, Sivaraman Balakrishnan, Zachary Lipton  
 Advances in Neural Information Processing Systems (NeurIPS), 2020 \[[<span style="color:blue">Paper</span>](https://arxiv.org/abs/2003.07554)\] \[[<span style="color:blue">Poster</span>](https://drive.google.com/file/d/13hpynIYM69nSRqj-7CHdvEdG7amC9phy/view?usp=sharing)\]      
-<span style="color:red">Contributed Talk</span> at ICML Workshop on Uncertainty in Deep Learning, 2020 \[[<span style="color:blue">Talk</span>](https://slideslive.com/38930578/a-unified-view-of-label-shift-estimation?ref=speaker-37449-latest)\]
+<span style="color:red">Contributed Talk</span> at ICML Workshop on Uncertainty in Deep Learning, 2020 \[[<span style="color:blue">Talk</span>](https://slideslive.com/38930578/a-unified-view-of-label-shift-estimation?ref=speaker-37449-latest)\]    
 <span style="color:blue">[Paper](https://arxiv.org/abs/2003.07554)</span> | <span style="color:blue">[Talk](https://drive.google.com/file/d/1Uvcuqbcv9w2NQNSVoOdoLsDcyf2FpBc3/view?usp=sharing)</span> | <span style="color:blue">[Poster](https://drive.google.com/file/d/1U2GxKvBqEC32vY-DZxnzHT80rj8fePqr/view?usp=sharing)</span> | <span style="color:blue">[Summary]()</span> | <span style="color:blue">[Citation]()</span>
 
 **Neural Architecture for Question Answering Using a Knowledge Graph and Web Corpus**  
