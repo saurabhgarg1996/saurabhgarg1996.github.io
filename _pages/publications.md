@@ -11,7 +11,9 @@ You can also find publications on my <span style="color:blue">[Google Scholar](h
 
 **Leveraging Unlabeled Data to Predict Out-of-Distribution Performance**   
 Saurabh Garg, Sivaraman Balakrishnan, Zachary Lipton, Behnam Neyshabur, Hanie Sedghi  
+NeurIPS Workshop on Distribution Shift (DistShift), 2021   
 Under Submission  
+
 
 **Mixture Proportion Estimation and PU Learning: A Modern Approach**  
 Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton  
