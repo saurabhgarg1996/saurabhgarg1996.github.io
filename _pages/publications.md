@@ -5,14 +5,7 @@ permalink: /publications/
 author_profile: true
 urlcolor: blue
 ---
-<style>
-details > summary {
-  list-style: none;
-}
-details > summary::-webkit-details-marker {
-  display: none;
-}
-</style>
+
 
 You can also find publications on my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en")</span> profile. 
 
@@ -26,22 +19,15 @@ Under Submission
 Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton  
 <span style="color:red">Spotlight</span> at Advances in Neural Information Processing Systems (NeurIPS), 2021       
 ICML Workshop on Uncertainty in Deep Learning, 2021   
-<span style="color:blue">[Paper](https://arxiv.org/abs/2111.00980)</span> | <span style="color:blue">[Code](https://github.com/acmi-lab/PU_learning)</span> | <span style="color:blue">[Talk]()</span> | <span style="color:blue">[Poster]()</span> | <span style="color:blue">[Summary]()</span> | <details style="display: inline;"> <summary><span style="color:blue">Citation</span></summary>
-
->@article{garg2021mixture,   
->    title={Mixture Proportion Estimation and PU Learning: A Modern Approach},  
->    author={Garg, Saurabh and Wu, Yifan and Smola, Alex and Balakrishnan, Sivaraman and Lipton, Zachary C.},   
->    year={2021},  
->    journal={arXiv preprint arXiv:2111.00980},  
->}  
-</details>
-
+<span style="color:blue">[Paper](https://arxiv.org/abs/2111.00980)</span> | <span style="color:blue">[Code](https://github.com/acmi-lab/PU_learning)</span> | <span style="color:blue">[Talk]()</span> | <span style="color:blue">[Poster]()</span> | <span style="color:blue">[Summary]()</span> | <span style="color:blue">[Citation]()</span>
 
 **RATT: Leveraging Unlabeled Data to Guarantee Generalization**   
 Saurabh Garg, Sivaraman Balakrishnan, Zico Kolter, Zachary Lipton   
 <span style="color:red">Long Talk</span> at International Conference on Machine Learning (ICML), 2021   
 ICLR Workshop on RobustML, 2021   
 <span style="color:blue">[Paper](https://arxiv.org/abs/2105.00303)</span> | <span style="color:blue">[Code]()</span> | <span style="color:blue">[Talk]()</span> | <span style="color:blue">[Poster](https://drive.google.com/file/d/1H25csKq622EDMtw2en-aDQxqNcP1Mcdg/view?usp=sharing)</span> | <span style="color:blue">[Summary]()</span> | <span style="color:blue">[Citation]()</span> 
+
+
 
 **On Proximal Policy Optimization's Heavy-Tailed Gradients**   
 Saurabh Garg, Joshua Zhanson, Emilio Parisotto, Adarsh Prasad, Zico Kolter, Zachary Lipton, Sivaraman Balakrishnan, Ruslan Salakhutdinov, Pradeep Ravikumar    
