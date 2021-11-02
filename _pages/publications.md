@@ -6,7 +6,6 @@ author_profile: true
 urlcolor: blue
 ---
 
-
 You can also find publications on my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en")</span> profile. 
 
 **Leveraging Unlabeled Data to Predict Out-of-Distribution Performance**   
@@ -22,6 +21,7 @@ ICML Workshop on Uncertainty in Deep Learning, 2021
 <span style="color:blue">[Paper](https://arxiv.org/abs/2111.00980)</span> | <span style="color:blue">[Code](https://github.com/acmi-lab/PU_learning)</span> | <span style="color:blue">[Talk]()</span> | <span style="color:blue">[Poster]()</span> | <span style="color:blue">[Summary]()</span> | 
 <details>
 <summary><span style="color:blue">[Citation]</span> </summary>
+<p>
 ``` 
 @article{garg2021mixture,
     title={Mixture Proportion Estimation and PU Learning: A Modern Approach},
@@ -30,6 +30,7 @@ ICML Workshop on Uncertainty in Deep Learning, 2021
     journal={arXiv preprint arXiv:2111.00980},
 }
 ```
+</p>
 </details>
 
 **RATT: Leveraging Unlabeled Data to Guarantee Generalization**   
