@@ -24,7 +24,7 @@ ICML Workshop on Uncertainty in Deep Learning, 2021
 Saurabh Garg, Sivaraman Balakrishnan, Zico Kolter, Zachary Lipton   
 <span style="color:red">Long Talk</span> at International Conference on Machine Learning (ICML), 2021   
 ICLR Workshop on RobustML, 2021   
-<span style="color:blue">[Paper](https://arxiv.org/abs/2105.00303)</span> | <span style="color:blue">[Code]()</span> | <span style="color:blue">[Talk]()</span> | <span style="color:blue">[Poster](https://drive.google.com/file/d/1H25csKq622EDMtw2en-aDQxqNcP1Mcdg/view?usp=sharing)</span>| <span style="color:blue">[Summary]()</span> | <span style="color:blue">[Citation]()</span> 
+<span style="color:blue">[Paper](https://arxiv.org/abs/2105.00303)</span> | <span style="color:blue">[Code]()</span> | <span style="color:blue">[Talk]()</span> | <span style="color:blue">[Poster](https://drive.google.com/file/d/1H25csKq622EDMtw2en-aDQxqNcP1Mcdg/view?usp=sharing)</span> | <span style="color:blue">[Summary]()</span> | <span style="color:blue">[Citation]()</span> 
 
 **On Proximal Policy Optimization's Heavy-Tailed Gradients**   
 Saurabh Garg, Joshua Zhanson, Emilio Parisotto, Adarsh Prasad, Zico Kolter, Zachary Lipton, Sivaraman Balakrishnan, Ruslan Salakhutdinov, Pradeep Ravikumar    
