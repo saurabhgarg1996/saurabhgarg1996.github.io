@@ -6,12 +6,8 @@ author_profile: true
 urlcolor: blue
 ---
 
-[//]: <> <span style="color:blue">[Paper]</span>() | <span style="color:blue">[Code]</span>() | <span style="color:blue">[Talk]</span>() | <span style="color:blue">[Poster]</span>() | <span style="color:blue">[Summary]</span>() | <span style="color:blue">[Citation]</span>() 
 
-
-
-You can also find publications on <a href="https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en">my Google Scholar profile</a>.
-
+You can also find publications on my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en")</span> profile. 
 
 **Leveraging Unlabeled Data to Predict Out-of-Distribution Performance**   
 Saurabh Garg, Sivaraman Balakrishnan, Zachary Lipton, Behnam Neyshabur, Hanie Sedghi  
