@@ -53,7 +53,7 @@ ICLR Workshop on RobustML, 2021
 Saurabh Garg, Joshua Zhanson, Emilio Parisotto, Adarsh Prasad, Zico Kolter, Zachary Lipton, Sivaraman Balakrishnan, Ruslan Salakhutdinov, Pradeep Ravikumar    
 Short talk at International Conference on Machine Learning (ICML), 2021   
 ICLR Workshop on Science and Engineering of Deep Learning, 2021    
-<span style="color:blue">[Paper](https://arxiv.org/pdf/2102.10264.pdf)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk](https://slideslive.com/38959028/on-proximal-policy-optimizations-heavytailed-gradients?ref=speaker-37449-latest)</span> / <span style="color:blue">[Poster](https://drive.google.com/file/d/1U2GxKvBqEC32vY-DZxnzHT80rj8fePqr/view?usp=sharing)</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2021_PPO_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2021_PPO_bib'))</span>
+<span style="color:blue">[Paper](https://arxiv.org/abs/2102.10264)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk](https://slideslive.com/38959028/on-proximal-policy-optimizations-heavytailed-gradients?ref=speaker-37449-latest)</span> / <span style="color:blue">[Poster](https://drive.google.com/file/d/1U2GxKvBqEC32vY-DZxnzHT80rj8fePqr/view?usp=sharing)</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2021_PPO_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2021_PPO_bib'))</span>
 <p><i id="garg2021_PPO_abs" style="display: none;">We empirically characterized PPO’s gradients, demonstrating that they become more heavy-tailed as training proceeds. We examined issues due to heavy-tailed nature of gradients and show that PPO clipping heuristics offset heavy-tailedness in gradients. </i></p>
 <bibtext xml:space="preserve" id="garg2021_PPO_bib" style="display: none;">
 @article{garg2021PPO, <br>
@@ -68,9 +68,22 @@ ICLR Workshop on Science and Engineering of Deep Learning, 2021
 
 **A Unified View of Label Shift Estimation**   
 Saurabh Garg, Yifan Wu, Sivaraman Balakrishnan, Zachary Lipton  
-Advances in Neural Information Processing Systems (NeurIPS), 2020 \[[<span style="color:blue">Paper</span>](https://arxiv.org/abs/2003.07554)\] \[[<span style="color:blue">Poster</span>](https://drive.google.com/file/d/13hpynIYM69nSRqj-7CHdvEdG7amC9phy/view?usp=sharing)\]      
-<span style="color:red">Contributed Talk</span> at ICML Workshop on Uncertainty in Deep Learning, 2020 \[[<span style="color:blue">Talk</span>](https://slideslive.com/38930578/a-unified-view-of-label-shift-estimation?ref=speaker-37449-latest)\]    
-<span style="color:blue">[Paper](https://arxiv.org/abs/2003.07554)</span> | <span style="color:blue">[Talk](https://drive.google.com/file/d/1Uvcuqbcv9w2NQNSVoOdoLsDcyf2FpBc3/view?usp=sharing)</span> | <span style="color:blue">[Poster](https://drive.google.com/file/d/1U2GxKvBqEC32vY-DZxnzHT80rj8fePqr/view?usp=sharing)</span> | <span style="color:blue">[Summary]()</span> | <span style="color:blue">[Citation]()</span>
+Advances in Neural Information Processing Systems (NeurIPS), 2020        
+<span style="color:red">Contributed Talk</span> at ICML Workshop on Uncertainty in Deep Learning, 2020    
+<span style="color:blue">[Paper](https://arxiv.org/abs/2102.10264)</span> / <span style="color:blue">[Talk](https://slideslive.com/38930578/a-unified-view-of-label-shift-estimation?ref=speaker-37449-latest)</span> / <span style="color:blue">[Poster](https://drive.google.com/file/d/13hpynIYM69nSRqj-7CHdvEdG7amC9phy/view?usp=sharing)</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2021_labelshift_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2021_labelshift_bib'))</span>
+<p><i id="garg2021_labelshift_abs" style="display: none;">We provide a unified framework relating techniques that use off-the-shelf predictors for label shift estimation. We argue that these methods all employ calibration, either explicitly or implicitly, differing only in the choice of calibration method and their optimization objective. </i></p>
+<bibtext xml:space="preserve" id="garg2021_labelshift_bib" style="display: none;">
+@article{garg2020labelshift, <br>
+ title={ A Unified View of Label Shift Estimation } <br>
+ author={Garg, Saurabh and Wu, Yifan and Balakrishnan, Sivaraman and Lipton, Zachary}, <br>
+ year={2020}, <br>
+ journal={arXiv preprint arXiv:2003.07554} <br>
+ url={https://arxiv.org/abs/2003.07554}, <br>
+ note={NeurIPS 2020}
+}
+</bibtext>
+
+
 
 **Neural Architecture for Question Answering Using a Knowledge Graph and Web Corpus**  
 Uma Sawant, Saurabh Garg, Soumen Chakrabarti, Ganesh Ramakrishnan  
