@@ -14,12 +14,6 @@ NeurIPS Workshop on Distribution Shift (DistShift), 2021
 Under Submission  
 
 
-[expand] 
-
-Hello
-
-[/expand]
-
 **Mixture Proportion Estimation and PU Learning: A Modern Approach**  
 Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton  
 <span style="color:red">Spotlight</span> at Advances in Neural Information Processing Systems (NeurIPS), 2021       
