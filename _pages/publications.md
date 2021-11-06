@@ -19,14 +19,14 @@ Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton
 <span style="color:red">Spotlight</span> at Advances in Neural Information Processing Systems (NeurIPS), 2021       
 ICML Workshop on Uncertainty in Deep Learning, 2021   
 <span style="color:blue">[Paper](https://arxiv.org/abs/2111.00980)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/PU_learning)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2021_PU_learning_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2021_PU_learning_bib'))</span>
-<p><i id="garg2021_PU_learning_abs" style="display: none;"> </i></p>
+<p><i id="garg2021_PU_learning_abs" style="display: none;">Given only Positive (P) and Unlabeled (U) data, containing both P and Negative (N) samples, we propose new approaches to estimate fraction of P in U and learn P vs N classifier. </i></p>
 <bibtext xml:space="preserve" id="garg2021_PU_learning_bib" style="display: none;">
-@article{garg2021PUlearning, 
- title={Mixture Proportion Estimation and PU Learning: A Modern Approach}
- author={Garg, Saurabh and Wu, Yifan and Smola, Alex and Balakrishnan, Sivaraman and Lipton, Zachary},
- year={2021}, 
- journal={arXiv preprint arXiv:2111.00980}
- url={https://arxiv.org/abs/2111.00980},
+@article{garg2021PUlearning, <br> 
+ title={Mixture Proportion Estimation and PU Learning: A Modern Approach} <br>
+ author={Garg, Saurabh and Wu, Yifan and Smola, Alex and Balakrishnan, Sivaraman and Lipton, Zachary}, <br>
+ year={2021}, <br>
+ journal={arXiv preprint arXiv:2111.00980} <br>
+ url={https://arxiv.org/abs/2111.00980}, <br>
  note={Spotlight at NeurIPS 2021}
 }
 
