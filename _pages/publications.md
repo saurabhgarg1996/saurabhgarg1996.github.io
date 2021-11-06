@@ -27,7 +27,7 @@ ICML Workshop on Uncertainty in Deep Learning, 2021
  year={2021}, <br>
  journal={arXiv preprint arXiv:2111.00980} <br>
  url={https://arxiv.org/abs/2111.00980}, <br>
- note={Spotlight at NeurIPS 2021}
+ note={Spotlight at NeurIPS 2021}<br>
 }
 </bibtext>
 
@@ -44,7 +44,7 @@ ICLR Workshop on RobustML, 2021
  year={2021}, <br>
  journal={arXiv preprint arXiv:2105.00303} <br>
  url={https://arxiv.org/abs/2105.00303}, <br>
- note={Long Talk at ICML 2021}
+ note={Long Talk at ICML 2021}<br>
 }
 </bibtext>
 
@@ -62,7 +62,7 @@ ICLR Workshop on Science and Engineering of Deep Learning, 2021
  year={2021}, <br>
  journal={arXiv preprint arXiv:2102.10264} <br>
  url={https://arxiv.org/abs/2102.10264}, <br>
- note={Short Talk at ICML 2021}
+ note={Short Talk at ICML 2021}<br>
 }
 </bibtext>
 
@@ -70,7 +70,7 @@ ICLR Workshop on Science and Engineering of Deep Learning, 2021
 Saurabh Garg, Yifan Wu, Sivaraman Balakrishnan, Zachary Lipton  
 Advances in Neural Information Processing Systems (NeurIPS), 2020        
 <span style="color:red">Contributed Talk</span> at ICML Workshop on Uncertainty in Deep Learning, 2020    
-<span style="color:blue">[Paper](https://arxiv.org/abs/2102.10264)</span> / <span style="color:blue">[Talk](https://slideslive.com/38930578/a-unified-view-of-label-shift-estimation?ref=speaker-37449-latest)</span> / <span style="color:blue">[Poster](https://drive.google.com/file/d/13hpynIYM69nSRqj-7CHdvEdG7amC9phy/view?usp=sharing)</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2021_labelshift_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2021_labelshift_bib'))</span>
+<span style="color:blue">[Paper](https://arxiv.org/abs/2003.07554)</span> / <span style="color:blue">[Talk](https://slideslive.com/38930578/a-unified-view-of-label-shift-estimation?ref=speaker-37449-latest)</span> / <span style="color:blue">[Poster](https://drive.google.com/file/d/13hpynIYM69nSRqj-7CHdvEdG7amC9phy/view?usp=sharing)</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2021_labelshift_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2021_labelshift_bib'))</span>
 <p><i id="garg2021_labelshift_abs" style="display: none;">We provide a unified framework relating techniques that use off-the-shelf predictors for label shift estimation. We argue that these methods all employ calibration, either explicitly or implicitly, differing only in the choice of calibration method and their optimization objective. </i></p>
 <bibtext xml:space="preserve" id="garg2021_labelshift_bib" style="display: none;">
 @article{garg2020labelshift, <br>
@@ -79,7 +79,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2020
  year={2020}, <br>
  journal={arXiv preprint arXiv:2003.07554} <br>
  url={https://arxiv.org/abs/2003.07554}, <br>
- note={NeurIPS 2020}
+ note={NeurIPS 2020}<br>
 }
 </bibtext>
 
@@ -87,29 +87,79 @@ Advances in Neural Information Processing Systems (NeurIPS), 2020
 
 **Neural Architecture for Question Answering Using a Knowledge Graph and Web Corpus**  
 Uma Sawant, Saurabh Garg, Soumen Chakrabarti, Ganesh Ramakrishnan  
-Information Retrieval Journal, 2019 \[[<span style="color:blue">Paper</span>](https://arxiv.org/abs/1706.00973)\]  
-<span style="color:red">Invited Oral</span> at European Conference on Information Retrieval (ECIR), 2020 \[[<span style="color:blue">Talk</span>](https://youtu.be/cVZ3Qj8sJCk?t=24540)\]
-
+Information Retrieval Journal, 2019      
+<span style="color:red">Invited Oral</span> at European Conference on Information Retrieval (ECIR), 2020    
+<span style="color:blue">[Paper](https://arxiv.org/abs/1706.00973)</span> / <span style="color:blue">[Talk](https://youtu.be/cVZ3Qj8sJCk?t=24540)</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2019_QA_bib'))</span>
+<bibtext xml:space="preserve" id="garg2019_QA_bib" style="display: none;">
+@article{sawant2019neural,
+  title={Neural architecture for question answering using a knowledge graph and web corpus}, <br>
+  author={Sawant, Uma and Garg, Saurabh and Chakrabarti, Soumen and Ramakrishnan, Ganesh}, <br>
+  journal={Information Retrieval Journal}, <br>
+  volume={22}, <br>
+  number={3}, <br>
+  pages={324--349}, <br>
+  year={2019}, <br>
+  publisher={Springer}<br>
+}
+</bibtext>
 
 **Estimating Uncertainty in MRF-based Image Segmentation: An Exact-MCMC Approach**  
 Suyash Awate, Saurabh Garg, Rohit Jena  
-Medical Image Analysis Journal, 2019 \[[<span style="color:blue">Paper</span>](https://doi.org/10.1016/j.media.2019.04.014)\]
-
+Medical Image Analysis Journal, 2019      
+<span style="color:blue">[Paper](https://doi.org/10.1016/j.media.2019.04.014)</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2019_MEDIA_bib'))</span>
+<bibtext xml:space="preserve" id="garg2019_MEDIA_bib" style="display: none;">
+@article{awate2019estimating,<br>
+  title={Estimating uncertainty in MRF-based image segmentation: A perfect-MCMC approach},<br>
+  author={Awate, Suyash P and Garg, Saurabh and Jena, Rohit},<br>
+  journal={Medical image analysis},<br>
+  volume={55},<br>
+  pages={181--196},<br>
+  year={2019},<br>
+  publisher={Elsevier}<br>
+}
+</bibtext>
 
 **Code-Switched Language models using Dual RNNs and Same-Source Pretraining**  
 Saurabh Garg\*, Tanmay Parekh\*, Preethi Jyothi (\*joint first authors)  
 *Awarded EMNLP Non-Student Travel Grant*  
-Proceedings of Empirical Methods in Natural Language Processing (EMNLP), 2018 \[[<span style="color:blue">Paper</span>](http://aclweb.org/anthology/D18-1346)\]  
-
+Proceedings of Empirical Methods in Natural Language Processing (EMNLP), 2018     
+<span style="color:blue">[Paper](http://aclweb.org/anthology/D18-1346)</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2018_EMNLP_bib'))</span>
+<bibtext xml:space="preserve" id="garg2018_EMNLPA_bib" style="display: none;">
+@inproceedings{garg2018code,<br>
+  title={Code-switched Language Models Using Dual RNNs and Same-Source Pretraining},<br>
+  author={Garg, Saurabh and Parekh, Tanmay and Jyothi, Preethi},<br>
+  booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},<br>
+  pages={3078--3083},<br>
+  year={2018}<br>
+}
+</bibtext>
 
 **Uncertainty Estimation in Segmentation with Perfect MCMC Sampling in Bayesian MRFs**  
 Saurabh Garg, Suyash Awate  
-Proceedings of Medical Image Computing & Computer Assisted Intervention (MICCAI), 2019 \[[<span style="color:blue">Paper</span>](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_76)\]
-
+Proceedings of Medical Image Computing & Computer Assisted Intervention (MICCAI), 2019   
+<span style="color:blue">[Paper](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_76)</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2018_MICCAI_bib'))</span>
+<bibtext xml:space="preserve" id="garg2018_MICCAI_bib" style="display: none;">
+@inproceedings{garg2018perfect,<br>
+  title={Perfect MCMC sampling in Bayesian MRFs for uncertainty estimation in segmentation},<br>
+  author={Garg, Saurabh and Awate, Suyash P},<br>
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},<br>
+  pages={673--681},<br>
+  year={2018},<br>
+  organization={Springer}<br>
+}
+</bibtext>
 
 **Dual Language Models for Code Mixed Speech Recognition**  
 Saurabh Garg, Tanmay Parekh, Preethi Jyothi   
 *Awarded ISCA Student Travel Grant*  
-Proceedings of Interspeech 2018 (19th Annual Conference of ISCA) \[[<span style="color:blue">Paper</span>](https://www.semanticscholar.org/paper/Dual-Language-Models-for-Code-Switched-Speech-Garg-Parekh/5c0371c3e34722f0fbdf5669c8e5361fac60bbcd)\]
-
+Proceedings of Interspeech 2018 (19th Annual Conference of ISCA)     
+<span style="color:blue">[Paper](https://www.semanticscholar.org/paper/Dual-Language-Models-for-Code-Switched-Speech-Garg-Parekh/5c0371c3e34722f0fbdf5669c8e5361fac60bbcd)</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2018_Interspeech_bib'))</span>
+<bibtext xml:space="preserve" id="garg2018_Interspeech_bib" style="display: none;">
+@article{garg2017dual,<br>
+  title={Dual language models for code switched speech recognition},<br>
+  author={Garg, Saurabh and Parekh, Tanmay and Jyothi, Preethi},<br>
+  journal={arXiv preprint arXiv:1711.01048},<br>
+  year={2017}<br>
+}
+</bibtext>
 
