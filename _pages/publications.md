@@ -18,7 +18,7 @@ Under Submission
 
 Hello
 
-[\expand]
+[/expand]
 
 **Mixture Proportion Estimation and PU Learning: A Modern Approach**  
 Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton  
