@@ -18,7 +18,14 @@ Under Submission
 Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton  
 <span style="color:red">Spotlight</span> at Advances in Neural Information Processing Systems (NeurIPS), 2021       
 ICML Workshop on Uncertainty in Deep Learning, 2021   
-<span style="color:blue">[Paper](https://arxiv.org/abs/2111.00980)</span> | <span style="color:blue">[Code](https://github.com/acmi-lab/PU_learning)</span> | <span style="color:blue">[Talk]()</span> | <span style="color:blue">[Poster]()</span> | <span style="color:blue">[Summary]()</span> | <span style="color:blue">[Citation]()</span>
+<span style="color:blue">[Paper](https://arxiv.org/abs/2111.00980)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/PU_learning)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary]("javascript:toggleblock('garg2021_PU_learning_abs')")</span> / <span style="color:blue">[Bibtex]("javascript:toggleblock('garg2021_PU_learning_bib')")</span>
+<p><i id="garg2021_PU_learning_abs" style="display: block;">hello this is summary </i></p>
+<bibtext xml:space="preserve" id="garg2021_PU_learning_bib" style="display: none;">
+abc  
+asvahs   
+sdbsjh  
+</bibtext>
+<script language="JavaScript">hideblock('garg2021_PU_learning_abs');hideblock('garg2021_PU_learning_bib');</script>
 
 **RATT: Leveraging Unlabeled Data to Guarantee Generalization**   
 Saurabh Garg, Sivaraman Balakrishnan, Zico Kolter, Zachary Lipton   
