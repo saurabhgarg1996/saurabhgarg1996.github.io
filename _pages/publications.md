@@ -6,13 +6,6 @@ author_profile: true
 urlcolor: blue
 ---
 
-[expand]
-
-
-Hello 
-
-[/expand]
-
 You can also find publications on my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en")</span> profile. 
 
 **Leveraging Unlabeled Data to Predict Out-of-Distribution Performance**   
@@ -20,6 +13,10 @@ Saurabh Garg, Sivaraman Balakrishnan, Zachary Lipton, Behnam Neyshabur, Hanie Se
 NeurIPS Workshop on Distribution Shift (DistShift), 2021   
 Under Submission  
 
+
+[expand] 
+Hello
+[\expand]
 
 **Mixture Proportion Estimation and PU Learning: A Modern Approach**  
 Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton  
