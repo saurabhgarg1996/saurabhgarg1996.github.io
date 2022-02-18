@@ -8,10 +8,29 @@ urlcolor: blue
 
 You can also find publications on my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en")</span> profile. 
 
+
+**Deconstructing Distributions: A Pointwise Framework of Learning**  
+Gal Kapluni\*, Nikhil Ghosh\*, Saurabh Garg, Boaz Barak, Preetum Nakkiran  
+Under Submission   
+
+
+
 **Leveraging Unlabeled Data to Predict Out-of-Distribution Performance**   
 Saurabh Garg, Sivaraman Balakrishnan, Zachary Lipton, Behnam Neyshabur, Hanie Sedghi  
 NeurIPS Workshop on Distribution Shift (DistShift), 2021   
-International Conference on Learning Representations (ICLR), 2022
+International Conference on Learning Representations (ICLR), 2022   
+<span style="color:blue">[Paper](https://arxiv.org/abs/2201.04234)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2022_ATC_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2022_ATC_bib'))</span>
+<p><i id="garg2022_ATC_abs" style="display: none;"> </i></p>
+<bibtext xml:space="preserve" id="garg2022_ATC_bib" style="display: none;">
+@article{garg2022ATC, <br>
+ title={Leveraging Unlabeled Data to Predict Out-of-Distribution Performance} <br>
+ author={Garg, Saurabh and Balakrishnan, Sivaraman and Lipton, Zachary and Neyshabur, Behnam and Sedghi, Hanie}, <br>
+ year={2022}, <br>
+ journal={arXiv preprint arXiv:2201.04234} <br>
+ url={https://arxiv.org/abs/2201.04234}, <br>
+ note={ICLR 2022}<br>
+}
+</bibtext>
 
 **Mixture Proportion Estimation and PU Learning: A Modern Approach**  
 Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton  

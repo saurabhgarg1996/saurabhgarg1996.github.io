@@ -30,6 +30,7 @@ table, tr, td {
        <col span="1" style="width: 88%;">
 </colgroup>
 
+<tr><td> <b> Jan 2022:</b> </td> <td> Work on investigate methods to predict target domain performance under distribution shift was accepted at ICLR 2022. <a href="https://arxiv.org/abs/2201.04234">[Arxiv link]</a></td></tr>
 <tr><td> <b> Sept 2021:</b> </td> <td> Work on learning from positive and unlabeled data accepted at NeurIPS 2021 as a Spotlight!. <a href="https://arxiv.org/abs/2111.00980">[Arxiv link]</a></td></tr>
 <tr><td> <b> May 2021:</b> </td> <td> Two papers at ICML: (i) Work on obtaining generalization bound with unlabeled data got accepted as Long talk at ICML 2021 <a href="https://arxiv.org/abs/2105.00303">[Paper]</a>; (ii) Work on understanding heavy tails in PPO to appear as Short Talk  at ICML 2021 <a href="https://arxiv.org/abs/2102.10264">[Paper]</a>.</td></tr>
 <tr><td><b> April 2021:</b> </td> <td> Our work on obtaining generalization gaurantees with unlabeled data will be presented at <a href="https://sites.google.com/connect.hku.hk/robustml-2021/">RobustML Workshop</a> at ICLR 2021 <a href="https://arxiv.org/abs/2105.00303">[Paper]</a> <a href="https://drive.google.com/file/d/1H25csKq622EDMtw2en-aDQxqNcP1Mcdg/view?usp=sharing">[Poster]</a>.  </td></tr> 
