@@ -68,7 +68,7 @@ ICLR Workshop on RobustML, 2021
 <div id="garg2021_RATT_video" style="display: none;"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
-    embed = new SlidesLiveEmbed('presentation-embed-38958661', {
+    embed = new SlidesLiveEmbed('garg2021_RATT_video', {
         presentationId: '38958661',
         autoPlay: false, // change to true to autoplay the embedded presentation
         verticalEnabled: true
