@@ -9,10 +9,12 @@ redirect_from:
 
 Hello! My name is Saurabh Garg and I am a second year PhD student at Machine Learning Department at CMU where I am advised by [Prof. Zachary Lipton](http://zacklipton.com/) and [Prof. Siva Balakrishnan](http://www.stat.cmu.edu/~siva/). I am broadly interested in building **robust and deployable machine learning systems**. Machine learning algorithms are typically developed and evaluated under simplistic assumptions that are often violated in practice. I am interested in understanding the behavior of machine learning models in real-world scenarios and building provable methods to make progress towards relaxing simplifying assumptions in order to make robust and trustworthy models.
 
+I did my undergrad from IIT Bombay, India with major and honors in CS and minors in Applied Statitics in 2018. After that, I spent one amazing year at Samsung Headquaters, Korea. In the past, I have worked with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen), [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash). 
 
+<!---
 I did my undergrad from IIT Bombay, India with major and honors in CS and minors in Applied Statitics in 2018. After that, I spent one amazing year at Samsung Headquaters, Korea. In the past, I have worked with [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash) on building statistical machine learning algorithms for exact MCMC samspling as a part of my Bachelor's thesis. During my stay at IITB, I have also spent major time working with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi) on the problem of building robust language models for code switched speech. I was also fortunate to work with [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen) on building interpretable question answering systems using KG and corpus. 
 
-
+-->
 
 ---
 
@@ -30,6 +32,7 @@ table, tr, td {
        <col span="1" style="width: 88%;">
 </colgroup>
 
+<tr><td> <b> Feb 2022:</b> </td> <td> Code for <a href="https://github.com/acmi-lab/PU_learning">PU learning</a> and <a href="https://github.com/acmi-lab/RATT_generalization_bound">RATT</a> is out now.</td></tr>
 <tr><td> <b> Jan 2022:</b> </td> <td> Work on investigate methods to predict target domain performance under distribution shift was accepted at ICLR 2022. <a href="https://arxiv.org/abs/2201.04234">[Arxiv link]</a></td></tr>
 <tr><td> <b> Sept 2021:</b> </td> <td> Work on learning from positive and unlabeled data accepted at NeurIPS 2021 as a Spotlight!. <a href="https://arxiv.org/abs/2111.00980">[Arxiv link]</a></td></tr>
 <tr><td> <b> May 2021:</b> </td> <td> Two papers at ICML: (i) Work on obtaining generalization bound with unlabeled data got accepted as Long talk at ICML 2021 <a href="https://arxiv.org/abs/2105.00303">[Paper]</a>; (ii) Work on understanding heavy tails in PPO to appear as Short Talk  at ICML 2021 <a href="https://arxiv.org/abs/2102.10264">[Paper]</a>.</td></tr>
