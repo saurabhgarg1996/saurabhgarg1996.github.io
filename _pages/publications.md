@@ -65,7 +65,7 @@ ICLR Workshop on RobustML, 2021
  note={Long Talk at ICML 2021}<br>
 }
 </bibtext>
-<div id="garg2021_RATT_video" style="display: none;"></div>
+<div id="garg2021_RATT_video"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
     embed = new SlidesLiveEmbed('garg2021_RATT_video', {
