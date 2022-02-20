@@ -53,7 +53,7 @@ ICML Workshop on Uncertainty in Deep Learning, 2021
 Saurabh Garg, Sivaraman Balakrishnan, Zico Kolter, Zachary Lipton   
 <span style="color:red">Long Talk</span> at International Conference on Machine Learning (ICML), 2021   
 ICLR Workshop on RobustML, 2021   
-<span style="color:blue">[Paper](https://arxiv.org/abs/2105.00303)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/RATT_generalization_bound)</span> / <span style="color:blue">[Talk](https://slideslive.com/38958661/ratt-leveraging-unlabeled-data-to-guarantee-generalization?ref=speaker-37449-latest)</span> / <span style="color:blue">[Poster](https://drive.google.com/file/d/1H25csKq622EDMtw2en-aDQxqNcP1Mcdg/view?usp=sharing)</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2021_RATT_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2021_RATT_bib'))</span>
+<span style="color:blue">[Paper](https://arxiv.org/abs/2105.00303)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/RATT_generalization_bound)</span> / <span style="color:blue">[Talk](javascript:toggleblock('garg2021_RATT_video'))</span> / <span style="color:blue">[Poster](https://drive.google.com/file/d/1H25csKq622EDMtw2en-aDQxqNcP1Mcdg/view?usp=sharing)</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2021_RATT_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2021_RATT_bib'))</span>
 <p><i id="garg2021_RATT_abs" style="display: none;">We introduce a method that leverages unlabeled data to produce generalization bound.  When a trained model fits clean training data well but randomly labeled training data added in poorly, we show that its generalization to the population is guaranteed.</i></p>
 <bibtext xml:space="preserve" id="garg2021_RATT_bib" style="display: none;">
 @article{garg2021RATT, <br>
@@ -65,6 +65,15 @@ ICLR Workshop on RobustML, 2021
  note={Long Talk at ICML 2021}<br>
 }
 </bibtext>
+<div id="garg2021_RATT_video" style="display: none;"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38958661', {
+        presentationId: '38958661',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
 
 
 **On Proximal Policy Optimization's Heavy-Tailed Gradients**   
