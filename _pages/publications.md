@@ -20,7 +20,7 @@ Saurabh Garg, Sivaraman Balakrishnan, Zachary Lipton, Behnam Neyshabur, Hanie Se
 NeurIPS Workshop on Distribution Shift (DistShift), 2021   
 International Conference on Learning Representations (ICLR), 2022   
 <span style="color:blue">[Paper](https://arxiv.org/abs/2201.04234)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2022_ATC_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2022_ATC_bib'))</span>
-<p><i id="garg2022_ATC_abs" style="display: none;"> </i></p>
+<p><i id="garg2022_ATC_abs" style="display: none;">Given access to labeled source data and unlabeled target data, we investigate methods to predict target domain performance and find a simple method that does surprisingly well.We also explore the theoretical foundations of the problem, proving that identifying the accuracy is just as hard as identifying the optimal predictor. </i></p>
 <bibtext xml:space="preserve" id="garg2022_ATC_bib" style="display: none;">
 @article{garg2022ATC, <br>
  title={Leveraging Unlabeled Data to Predict Out-of-Distribution Performance} <br>
@@ -36,7 +36,7 @@ International Conference on Learning Representations (ICLR), 2022
 Saurabh Garg, Yifan Wu, Alex Smola, Sivaraman Balakrishnan, Zachary Lipton  
 <span style="color:red">Spotlight</span> at Advances in Neural Information Processing Systems (NeurIPS), 2021       
 ICML Workshop on Uncertainty in Deep Learning, 2021   
-<span style="color:blue">[Paper](https://arxiv.org/abs/2111.00980)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/PU_learning)</span> / <span style="color:blue">[Talk](https://recorder-v3.slideslive.com/?share=52493&s=dafe9010-00e1-4082-b224-0391b356ccbb)</span> / <span style="color:blue">[Poster](https://drive.google.com/file/d/1liowCWEHxMZH2Ag5ozaJfAG58RCwOh86/view?usp=sharing)</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2021_PU_learning_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2021_PU_learning_bib'))</span>
+<span style="color:blue">[Paper](https://arxiv.org/abs/2111.00980)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/PU_learning)</span> / <span style="color:blue">[Talk](https://slideslive.com/38969149/mixture-proportion-estimation-and-pu-learning-a-modern-approach)</span> / <span style="color:blue">[Poster](https://drive.google.com/file/d/1liowCWEHxMZH2Ag5ozaJfAG58RCwOh86/view?usp=sharing)</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2021_PU_learning_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2021_PU_learning_bib'))</span>
 <p><i id="garg2021_PU_learning_abs" style="display: none;">Given only Positive (P) and Unlabeled (U) data, containing both P and Negative (N) samples, we propose new approaches to estimate fraction of P in U and learn P vs N classifier. </i></p>
 <bibtext xml:space="preserve" id="garg2021_PU_learning_bib" style="display: none;">
 @article{garg2021PUlearning, <br> 
