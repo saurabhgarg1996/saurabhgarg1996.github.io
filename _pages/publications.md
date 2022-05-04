@@ -40,7 +40,7 @@ ICML Workshop on Uncertainty in Deep Learning, 2021
 <p><i id="garg2021_PU_learning_abs" style="display: none;">Given only Positive (P) and Unlabeled (U) data, containing both P and Negative (N) samples, we propose new approaches to estimate fraction of P in U and learn P vs N classifier. </i></p>
 <bibtext xml:space="preserve" id="garg2021_PU_learning_bib" style="display: none;">
 @article{garg2021PUlearning, <br> 
- title={Mixture Proportion Estimation and PU Learning: A Modern Approach}, <br>
+ title={Mixture Proportion Estimation and {PU} Learning: A Modern Approach}, <br>
  author={Garg, Saurabh and Wu, Yifan and Smola, Alex and Balakrishnan, Sivaraman and Lipton, Zachary}, <br>
  year={2021}, <br>
  journal={arXiv preprint arXiv:2111.00980}, <br>
