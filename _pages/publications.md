@@ -23,10 +23,10 @@ International Conference on Learning Representations (ICLR), 2022
 <p><i id="garg2022_ATC_abs" style="display: none;">Given access to labeled source data and unlabeled target data, we investigate methods to predict target domain performance and find a simple method that does surprisingly well.We also explore the theoretical foundations of the problem, proving that identifying the accuracy is just as hard as identifying the optimal predictor. </i></p>
 <bibtext xml:space="preserve" id="garg2022_ATC_bib" style="display: none;">
 @article{garg2022ATC, <br>
- title={Leveraging Unlabeled Data to Predict Out-of-Distribution Performance} <br>
+ title={Leveraging Unlabeled Data to Predict Out-of-Distribution Performance}, <br>
  author={Garg, Saurabh and Balakrishnan, Sivaraman and Lipton, Zachary and Neyshabur, Behnam and Sedghi, Hanie}, <br>
  year={2022}, <br>
- journal={arXiv preprint arXiv:2201.04234} <br>
+ journal={arXiv preprint arXiv:2201.04234}, <br>
  url={https://arxiv.org/abs/2201.04234}, <br>
  note={ICLR 2022}<br>
 }
@@ -40,10 +40,10 @@ ICML Workshop on Uncertainty in Deep Learning, 2021
 <p><i id="garg2021_PU_learning_abs" style="display: none;">Given only Positive (P) and Unlabeled (U) data, containing both P and Negative (N) samples, we propose new approaches to estimate fraction of P in U and learn P vs N classifier. </i></p>
 <bibtext xml:space="preserve" id="garg2021_PU_learning_bib" style="display: none;">
 @article{garg2021PUlearning, <br> 
- title={Mixture Proportion Estimation and PU Learning: A Modern Approach} <br>
+ title={Mixture Proportion Estimation and PU Learning: A Modern Approach}, <br>
  author={Garg, Saurabh and Wu, Yifan and Smola, Alex and Balakrishnan, Sivaraman and Lipton, Zachary}, <br>
  year={2021}, <br>
- journal={arXiv preprint arXiv:2111.00980} <br>
+ journal={arXiv preprint arXiv:2111.00980}, <br>
  url={https://arxiv.org/abs/2111.00980}, <br>
  note={Spotlight at NeurIPS 2021}<br>
 }
@@ -57,10 +57,10 @@ ICLR Workshop on RobustML, 2021
 <p><i id="garg2021_RATT_abs" style="display: none;">We introduce a method that leverages unlabeled data to produce generalization bound.  When a trained model fits clean training data well but randomly labeled training data added in poorly, we show that its generalization to the population is guaranteed.</i></p>
 <bibtext xml:space="preserve" id="garg2021_RATT_bib" style="display: none;">
 @article{garg2021RATT, <br>
- title={ {RATT}: Leveraging Unlabeled Data to Guarantee Generalization } <br>
+ title={ {RATT}: Leveraging Unlabeled Data to Guarantee Generalization}, <br>
  author={Garg, Saurabh and Balakrishnan, Sivaraman and Kolter, Zico and Lipton, Zachary}, <br>
  year={2021}, <br>
- journal={arXiv preprint arXiv:2105.00303} <br>
+ journal={arXiv preprint arXiv:2105.00303}, <br>
  url={https://arxiv.org/abs/2105.00303}, <br>
  note={Long Talk at ICML 2021}<br>
 }
@@ -75,10 +75,10 @@ ICLR Workshop on Science and Engineering of Deep Learning, 2021
 <p><i id="garg2021_PPO_abs" style="display: none;">We empirically characterized PPO’s gradients, demonstrating that they become more heavy-tailed as training proceeds. We examined issues due to heavy-tailed nature of gradients and show that PPO clipping heuristics offset heavy-tailedness in gradients. </i></p>
 <bibtext xml:space="preserve" id="garg2021_PPO_bib" style="display: none;">
 @article{garg2021PPO, <br>
- title={ On Proximal Policy Optimization’s Heavy-tailed Gradients } <br>
+ title={ On Proximal Policy Optimization’s Heavy-tailed Gradients}, <br>
  author={Garg, Saurabh and Zhanson, Joshua and Parisotto, Emilio and Prasad, Adarsh and Kolter, J Zico and Balakrishnan, Sivaraman and Lipton, Zachary C and Salakhutdinov, Ruslan and Ravikumar, Pradeep}, <br>
  year={2021}, <br>
- journal={arXiv preprint arXiv:2102.10264} <br>
+ journal={arXiv preprint arXiv:2102.10264}, <br>
  url={https://arxiv.org/abs/2102.10264}, <br>
  note={Short Talk at ICML 2021}<br>
 }
@@ -92,10 +92,10 @@ Advances in Neural Information Processing Systems (NeurIPS), 2020
 <p><i id="garg2021_labelshift_abs" style="display: none;">We provide a unified framework relating techniques that use off-the-shelf predictors for label shift estimation. We argue that these methods all employ calibration, either explicitly or implicitly, differing only in the choice of calibration method and their optimization objective. </i></p>
 <bibtext xml:space="preserve" id="garg2021_labelshift_bib" style="display: none;">
 @article{garg2020labelshift, <br>
- title={ A Unified View of Label Shift Estimation } <br>
+ title={ A Unified View of Label Shift Estimation}, <br>
  author={Garg, Saurabh and Wu, Yifan and Balakrishnan, Sivaraman and Lipton, Zachary}, <br>
  year={2020}, <br>
- journal={arXiv preprint arXiv:2003.07554} <br>
+ journal={arXiv preprint arXiv:2003.07554}, <br>
  url={https://arxiv.org/abs/2003.07554}, <br>
  note={NeurIPS 2020}<br>
 }
