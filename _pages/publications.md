@@ -45,7 +45,7 @@ ICML Workshop on Uncertainty in Deep Learning, 2021
  year={2021}, <br>
  journal={arXiv preprint arXiv:2111.00980}, <br>
  url={https://arxiv.org/abs/2111.00980}, <br>
- note={Spotlight at NeurIPS 2021}<br>
+ note={NeurIPS 2021}<br>
 }
 </bibtext>
 
@@ -62,7 +62,7 @@ ICLR Workshop on RobustML, 2021
  year={2021}, <br>
  journal={arXiv preprint arXiv:2105.00303}, <br>
  url={https://arxiv.org/abs/2105.00303}, <br>
- note={Long Talk at ICML 2021}<br>
+ note={ICML 2021}<br>
 }
 </bibtext>
 
@@ -80,7 +80,7 @@ ICLR Workshop on Science and Engineering of Deep Learning, 2021
  year={2021}, <br>
  journal={arXiv preprint arXiv:2102.10264}, <br>
  url={https://arxiv.org/abs/2102.10264}, <br>
- note={Short Talk at ICML 2021}<br>
+ note={ICML 2021}<br>
 }
 </bibtext>
 
