@@ -20,15 +20,15 @@ Under Submission
 
 
 **Deconstructing Distributions: A Pointwise Framework of Learning**  
-Gal Kapluni\*, Nikhil Ghosh\*, Saurabh Garg, Boaz Barak, Preetum Nakkiran  
+Gal Kaplun\*, Nikhil Ghosh\*, Saurabh Garg, Boaz Barak, Preetum Nakkiran  
 Under Submission   
 <span style="color:blue">[Paper](https://arxiv.org/abs/2202.09931)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('kalpun2022_DD_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('kalpun2022_DD_bib'))</span>
 <p><i id="kalpun2022_DD_abs" style="display: none;">We propose a new lens for studying the pointwise performance of learning algorithms which reveals new insights into their behavior and goes beyond traditional notions of in-distribution and "out-of-distribution" learning. </i></p>
 <bibtext xml:space="preserve" id="kalpun2022_DD_bib" style="display: none;">
-@article{kaplun2022deconstructing,
-  title={Deconstructing Distributions: A Pointwise Framework of Learning},
-  author={Kaplun, Gal and Ghosh, Nikhil and Garg, Saurabh and Barak, Boaz and Nakkiran, Preetum},
-  journal={arXiv preprint arXiv:2202.09931},
+@article{kaplun2022deconstructing,  
+  title={Deconstructing Distributions: A Pointwise Framework of Learning},  
+  author={Kaplun, Gal and Ghosh, Nikhil and Garg, Saurabh and Barak, Boaz and Nakkiran, Preetum},  
+  journal={arXiv preprint arXiv:2202.09931},  
   year={2022}
 }
 </bibtext>
@@ -45,7 +45,7 @@ International Conference on Learning Representations (ICLR), 2022
  title={Leveraging Unlabeled Data to Predict Out-of-Distribution Performance}, <br>
  author={Garg, Saurabh and Balakrishnan, Sivaraman and Lipton, Zachary and Neyshabur, Behnam and Sedghi, Hanie}, <br>
  year={2022}, <br>
- booktitle={International Conference on Learning Representations (ICLR)}i
+ booktitle={International Conference on Learning Representations (ICLR)}  
 }
 </bibtext>
 
@@ -60,7 +60,7 @@ ICML Workshop on Uncertainty in Deep Learning, 2021
  title={Mixture Proportion Estimation and {PU} Learning: A Modern Approach}, <br>
  author={Garg, Saurabh and Wu, Yifan and Smola, Alex and Balakrishnan, Sivaraman and Lipton, Zachary}, <br>
  year={2021}, <br>
- booktitle={Advances in Neural Information Processing Systems (NeurIPS)} 
+ booktitle={Advances in Neural Information Processing Systems (NeurIPS)}   
 }
 </bibtext>
 
@@ -75,7 +75,7 @@ ICLR Workshop on RobustML, 2021
  title={ {RATT}: Leveraging Unlabeled Data to Guarantee Generalization}, <br>
  author={Garg, Saurabh and Balakrishnan, Sivaraman and Kolter, Zico and Lipton, Zachary}, <br>
  year={2021}, <br>
- booktitle={International Conference on Machine Learning (ICML)}
+ booktitle={International Conference on Machine Learning (ICML)}  
 }
 </bibtext>
 
@@ -91,7 +91,7 @@ ICLR Workshop on Science and Engineering of Deep Learning, 2021
  title={ On Proximal Policy Optimization’s Heavy-tailed Gradients}, <br>
  author={Garg, Saurabh and Zhanson, Joshua and Parisotto, Emilio and Prasad, Adarsh and Kolter, J Zico and Balakrishnan, Sivaraman and Lipton, Zachary C and Salakhutdinov, Ruslan and Ravikumar, Pradeep}, <br>
  year={2021}, <br>
- booktitle={International Conference on Machine Learning (ICML)}
+ booktitle={International Conference on Machine Learning (ICML)}  
 }
 </bibtext>
 
@@ -106,7 +106,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2020
  title={ A Unified View of Label Shift Estimation}, <br>
  author={Garg, Saurabh and Wu, Yifan and Balakrishnan, Sivaraman and Lipton, Zachary}, <br>
  year={2020}, <br>
- booktitle={Advances in Neural Information Processing Systems (NeurIPS)} 
+ booktitle={Advances in Neural Information Processing Systems (NeurIPS)}   
 }
 </bibtext>
 
