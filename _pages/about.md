@@ -31,7 +31,7 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-
+<tr><td> <b> July 2022:</b> </td> <td> We are organizing <a href="https://sites.google.com/view/icml-2022-pods">Principles of Distribution Shift (PODS)</a> workshop at ICML, 2022. </td> </tr>  
 <tr><td> <b> March 2022:</b> </td> <td> Honored to receive the <a href="https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship">JP Morgan AI PhD Fellowship</a> and <a href="https://www.amazon.science/academic-engagements/new-amazon-graduate-research-fellows-announced-at-carnegie-mellon">Amazon Graduate Fellowship</a>. </td> </tr>  
 <tr><td> <b> Feb 2022:</b> </td> <td> Code for <a href="https://github.com/acmi-lab/PU_learning">PU learning</a> and <a href="https://github.com/acmi-lab/RATT_generalization_bound">RATT</a> is out now.</td></tr>
 <tr><td> <b> Jan 2022:</b> </td> <td> Work on investigate methods to predict target domain performance under distribution shift was accepted at ICLR 2022. <a href="https://arxiv.org/abs/2201.04234">[Arxiv link]</a></td></tr>

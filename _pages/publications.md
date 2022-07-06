@@ -11,13 +11,19 @@ You can also find publications on my <span style="color:blue">[Google Scholar](h
 
 **Domain Adaptation under Open Set Label Shift**    
 Saurabh Garg, Sivaraman Balakrishnan, Zachary C. Lipton    
-Under Submission
+ICML Workshop on Spurious Correlations, Invariance, and Stability (SCIS), 2022  
+Under Submission  
 
 
 **Unsupervised Learning under Latent Label Shift**   
 Manley Roberts, Pranav Mani, Saurabh Garg, Zachary C. Lipton    
+ICML Workshop on Spurious Correlations, Invariance, and Stability (SCIS), 2022   
 Under Submission 
 
+**Characterizing Datapoints via Second-Split Forgetting**  
+Pratyush Maini, Saurabh Garg, Zachary Lipton, Zico Kolter  
+<span style="color:red">Spotlight</span> at ICML Workshop on Spurious Correlations, Invariance, and Stability (SCIS), 2022  
+Under Submission  
 
 **Deconstructing Distributions: A Pointwise Framework of Learning**  
 Gal Kaplun\*, Nikhil Ghosh\*, Saurabh Garg, Boaz Barak, Preetum Nakkiran  
