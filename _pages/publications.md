@@ -13,7 +13,7 @@ You can also find publications on my <span style="color:blue">[Google Scholar](h
 Saurabh Garg, Sivaraman Balakrishnan, Zachary C. Lipton    
 ICML Workshop on Spurious Correlations, Invariance, and Stability (SCIS), 2022  
 Advances in Neural Information Processing Systems (NeurIPS), 2022    
-<span style="color:blue">[Paper](https://arxiv.org/abs/2207.13048)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/open_set_classification/)</span> / <span style="color:blue">[Talk](https://slideslive.com/38986250/domain-adaptation-under-open-set-label-shift?ref=speaker-37449)</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2022_OSLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2022_OSLS_bib'))</span>
+<span style="color:blue">[Paper](https://arxiv.org/abs/2207.13048)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/Open-Set-Label-Shift)</span> / <span style="color:blue">[Talk](https://slideslive.com/38986250/domain-adaptation-under-open-set-label-shift?ref=speaker-37449)</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2022_OSLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2022_OSLS_bib'))</span>
 <p><i id="garg2022_OSLS_abs" style="display: none;">We introduce the problem of domain adaptation under Open Set Label Shift (OSLS) where the label distribution can change arbitrarily and a new class may arrive during deployment, but the class-conditional distributions p(x|y) are domain-invariant. </i></p>
 <bibtext xml:space="preserve" id="garg2022_OSLS_bib" style="display: none;">
 @inproceedings{garg2022OSLS, <br>
