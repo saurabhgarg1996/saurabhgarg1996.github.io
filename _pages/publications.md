@@ -12,18 +12,39 @@ You can also find publications on my <span style="color:blue">[Google Scholar](h
 **Domain Adaptation under Open Set Label Shift**    
 Saurabh Garg, Sivaraman Balakrishnan, Zachary C. Lipton    
 ICML Workshop on Spurious Correlations, Invariance, and Stability (SCIS), 2022  
-Under Submission  
-
+Advances in Neural Information Processing Systems (NeurIPS), 2022    
+<span style="color:blue">[Paper](https://arxiv.org/abs/2207.13048)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/open_set_classification/)</span> / <span style="color:blue">[Talk](https://slideslive.com/38986250/domain-adaptation-under-open-set-label-shift?ref=speaker-37449)</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2022_OSLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2022_OSLS_bib'))</span>
+<p><i id="garg2022_OSLS_abs" style="display: none;">We introduce the problem of domain adaptation under Open Set Label Shift (OSLS) where the label distribution can change arbitrarily and a new class may arrive during deployment, but the class-conditional distributions p(x|y) are domain-invariant. </i></p>
+<bibtext xml:space="preserve" id="garg2022_OSLS_bib" style="display: none;">
+@inproceedings{garg2022OSLS, <br>
+ title={Domain Adaptation under Open Set Label Shift}, <br>
+ author={Garg, Saurabh and  Balakrishnan, Sivaraman and Lipton, Zachary}, <br>
+ year={2022}, <br>
+ booktitle={Advances in Neural Information Processing Systems (NeurIPS)}
+}
+</bibtext>
 
 **Unsupervised Learning under Latent Label Shift**   
 Manley Roberts, Pranav Mani, Saurabh Garg, Zachary C. Lipton    
 ICML Workshop on Spurious Correlations, Invariance, and Stability (SCIS), 2022   
-Under Submission 
+Advances in Neural Information Processing Systems (NeurIPS), 2022    
+<span style="color:blue">[Paper](https://arxiv.org/abs/2207.13179)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('roberts2022_LLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('roberts2022_LLS_bib'))</span>
+<p><i id="roberts2022_LLS_abs" style="display: none;">We introduce unsupervised learning under Latent Label Shift (LLS), where we have access to unlabeled data from multiple domains such that the label marginals p_d(y) can shift across domains but the class conditionals p(x|y) do not.</i></p>
+<bibtext xml:space="preserve" id="roberts022_LLS_bib" style="display: none;">
+@inproceedings{roberts2022LLS, <br>
+ title={Unsupervised Learning under Latent Label Shift}, <br>
+ author={Roberts, Manley and Mani, Pranav and Garg, Saurabh and Lipton, Zachary}, <br>
+ year={2022}, <br>
+ booktitle={Advances in Neural Information Processing Systems (NeurIPS)}
+}
+</bibtext>
+
 
 **Characterizing Datapoints via Second-Split Forgetting**  
 Pratyush Maini, Saurabh Garg, Zachary Lipton, Zico Kolter  
 <span style="color:red">Spotlight</span> at ICML Workshop on Spurious Correlations, Invariance, and Stability (SCIS), 2022  
-Under Submission  
+Advances in Neural Information Processing Systems (NeurIPS), 2022  
+
 
 **Deconstructing Distributions: A Pointwise Framework of Learning**  
 Gal Kaplun\*, Nikhil Ghosh\*, Saurabh Garg, Boaz Barak, Preetum Nakkiran  
