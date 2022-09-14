@@ -30,7 +30,7 @@ ICML Workshop on Spurious Correlations, Invariance, and Stability (SCIS), 2022
 Advances in Neural Information Processing Systems (NeurIPS), 2022    
 <span style="color:blue">[Paper](https://arxiv.org/abs/2207.13179)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('roberts2022_LLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('roberts2022_LLS_bib'))</span>
 <p><i id="roberts2022_LLS_abs" style="display: none;">We introduce unsupervised learning under Latent Label Shift (LLS), where we have access to unlabeled data from multiple domains such that the label marginals p_d(y) can shift across domains but the class conditionals p(x|y) do not.</i></p>
-<bibtext xml:space="preserve" id="roberts022_LLS_bib" style="display: none;">
+<bibtext xml:space="preserve" id="roberts2022_LLS_bib" style="display: none;">
 @inproceedings{roberts2022LLS, <br>
  title={Unsupervised Learning under Latent Label Shift}, <br>
  author={Roberts, Manley and Mani, Pranav and Garg, Saurabh and Lipton, Zachary}, <br>
