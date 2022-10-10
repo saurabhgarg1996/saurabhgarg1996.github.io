@@ -16,7 +16,7 @@ Saurabh Garg, Nick Erickson, James Sharpnack, Alex Smola, Siva Balakrishnan,  Za
 Kundan Krishna, Saurabh Garg, Jeffrey Bigham, Zachary Lipton   
 
 
-**CHILS: Zero-shot Image Classification with Hierarchical Label Sets**
+**CHILS: Zero-shot Image Classification with Hierarchical Label Sets**    
 Zachary Novack, Saurabh Garg, Zachary Lipton
 
 
