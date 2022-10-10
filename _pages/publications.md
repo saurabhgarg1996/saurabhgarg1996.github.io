@@ -8,6 +8,18 @@ urlcolor: blue
 
 You can also find publications on my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en")</span> profile. 
 
+**RLSbench: A Large-Scale Empirical Study of Domain Adaptation Under Relaxed Label Shift**  
+Saurabh Garg, Nick Erickson, James Sharpnack, Alex Smola, Siva Balakrishnan,  Zachary Lipton  
+
+
+**Downstream Datasets Make Surprisingly Good Pretraining Corpora**     
+Kundan Krishna, Saurabh Garg, Jeffrey Bigham, Zachary Lipton   
+
+
+**CHILS: Zero-shot Image Classification with Hierarchical Label Sets**
+Zachary Novack, Saurabh Garg, Zachary Lipton
+
+
 
 **Domain Adaptation under Open Set Label Shift**    
 Saurabh Garg, Sivaraman Balakrishnan, Zachary C. Lipton    
