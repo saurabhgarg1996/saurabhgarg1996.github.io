@@ -14,6 +14,16 @@ Saurabh Garg, Nick Erickson, James Sharpnack, Alex Smola, Siva Balakrishnan,  Za
 
 **Downstream Datasets Make Surprisingly Good Pretraining Corpora**     
 Kundan Krishna, Saurabh Garg, Jeffrey Bigham, Zachary Lipton   
+<span style="color:blue">[Paper](https://arxiv.org/abs/2209.14389)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('kundan_2022_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('kundan_2022_bib'))</span>
+<p><i id="kundan_2022_abs" style="display: none;">We observe that pretraining only on the downstream dataset can perform comparably or often even better than pretraining on a huge upstream corpora.  </i></p>
+<bibtext xml:space="preserve" id="kundan_2022_bib" style="display: none;">
+@article{kundan2022selfpretraining,     <br>
+  title={Downstream Datasets Make Surprisingly Good Pretraining Corpora},     <br>
+  author={Krishna, Kundan and Garg, Saurabh and Bigham, Jeffrey and Lipton, Zachary},      <br>
+  journal={arXiv preprint arXiv:2209.14389},    <br>
+  year={2022}
+}
+</bibtext>
 
 
 **CHILS: Zero-shot Image Classification with Hierarchical Label Sets**    
