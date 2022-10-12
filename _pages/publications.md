@@ -64,11 +64,11 @@ Under Submission
 <span style="color:blue">[Paper](https://arxiv.org/abs/2202.09931)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('kalpun2022_DD_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('kalpun2022_DD_bib'))</span>
 <p><i id="kalpun2022_DD_abs" style="display: none;">We propose a new lens for studying the pointwise performance of learning algorithms which reveals new insights into their behavior and goes beyond traditional notions of in-distribution and "out-of-distribution" learning. </i></p>
 <bibtext xml:space="preserve" id="kalpun2022_DD_bib" style="display: none;">
-@article{kaplun2022deconstructing,     
-  title={Deconstructing Distributions: A Pointwise Framework of Learning},     
-  author={Kaplun, Gal and Ghosh, Nikhil and Garg, Saurabh and Barak, Boaz and Nakkiran, Preetum},      
-  journal={arXiv preprint arXiv:2202.09931},    
-  year={2022}  
+@article{kaplun2022deconstructing,     <br>
+  title={Deconstructing Distributions: A Pointwise Framework of Learning},     <br>
+  author={Kaplun, Gal and Ghosh, Nikhil and Garg, Saurabh and Barak, Boaz and Nakkiran, Preetum},      <br>
+  journal={arXiv preprint arXiv:2202.09931},    <br>
+  year={2022} 
 }
 </bibtext>
 
