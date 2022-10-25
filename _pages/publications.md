@@ -10,10 +10,11 @@ You can also find publications on my <span style="color:blue">[Google Scholar](h
 
 **RLSbench: A Large-Scale Empirical Study of Domain Adaptation Under Relaxed Label Shift**  
 Saurabh Garg, Nick Erickson, James Sharpnack, Alex Smola, Siva Balakrishnan,  Zachary Lipton  
-
+NeurIPS Workshop on Distribution Shifts (DistShift), 2022
 
 **Downstream Datasets Make Surprisingly Good Pretraining Corpora**     
 Kundan Krishna, Saurabh Garg, Jeffrey Bigham, Zachary Lipton   
+NeurIPS Workshop on Transfer Learning for NLP, 2022
 <span style="color:blue">[Paper](https://arxiv.org/abs/2209.14389)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('kundan_2022_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('kundan_2022_bib'))</span>
 <p><i id="kundan_2022_abs" style="display: none;">We observe that pretraining only on the downstream dataset can perform comparably or often even better than pretraining on a huge upstream corpora.  </i></p>
 <bibtext xml:space="preserve" id="kundan_2022_bib" style="display: none;">
@@ -70,7 +71,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2022
 
 **Deconstructing Distributions: A Pointwise Framework of Learning**  
 Gal Kaplun\*, Nikhil Ghosh\*, Saurabh Garg, Boaz Barak, Preetum Nakkiran  
-Under Submission   
+NeurIPS Workshop on Distribution Shifts (DistShift), 2022 
 <span style="color:blue">[Paper](https://arxiv.org/abs/2202.09931)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('kalpun2022_DD_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('kalpun2022_DD_bib'))</span>
 <p><i id="kalpun2022_DD_abs" style="display: none;">We propose a new lens for studying the pointwise performance of learning algorithms which reveals new insights into their behavior and goes beyond traditional notions of in-distribution and "out-of-distribution" learning. </i></p>
 <bibtext xml:space="preserve" id="kalpun2022_DD_bib" style="display: none;">
