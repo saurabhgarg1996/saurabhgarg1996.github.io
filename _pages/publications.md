@@ -71,7 +71,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2022
 
 **Deconstructing Distributions: A Pointwise Framework of Learning**  
 Gal Kaplun\*, Nikhil Ghosh\*, Saurabh Garg, Boaz Barak, Preetum Nakkiran  
-NeurIPS Workshop on Distribution Shifts (DistShift), 2022 
+NeurIPS Workshop on Distribution Shifts (DistShift), 2022    
 <span style="color:blue">[Paper](https://arxiv.org/abs/2202.09931)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('kalpun2022_DD_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('kalpun2022_DD_bib'))</span>
 <p><i id="kalpun2022_DD_abs" style="display: none;">We propose a new lens for studying the pointwise performance of learning algorithms which reveals new insights into their behavior and goes beyond traditional notions of in-distribution and "out-of-distribution" learning. </i></p>
 <bibtext xml:space="preserve" id="kalpun2022_DD_bib" style="display: none;">
