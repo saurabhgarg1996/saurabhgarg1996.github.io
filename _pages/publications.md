@@ -67,6 +67,22 @@ Advances in Neural Information Processing Systems (NeurIPS), 2022
 Pratyush Maini, Saurabh Garg, Zachary Lipton, Zico Kolter  
 <span style="color:red">Spotlight</span> at ICML Workshop on Spurious Correlations, Invariance, and Stability (SCIS), 2022  
 Advances in Neural Information Processing Systems (NeurIPS), 2022  
+<span style="color:blue">[Paper](https://arxiv.org/abs/2210.15031)</span> / <span style="color:blue">[Code](https://github.com/pratyushmaini/ssft)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('maini2022_ssft_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('maini2022_ssft_bib'))</span>
+<p><i id="maini2022_ssft_abs" style="display: none;">We analyze the forgetting and learning dynamics of neural networks to characterize different types of hard examples as belonging to mislabeled, rare and complex categories..</i></p>
+<bibtext xml:space="preserve" id="maini2022_ssft_bib" style="display: none;">
+@inproceedings{maini2022ssft, <br>
+ title={Characterizing Datapoints via Second-Split Forgetting}, <br>
+ author={Maini, Pratyush and Garg, Saurabh and Kolter, Zico and Lipton, Zachary}, <br>
+ year={2022}, <br>
+ booktitle={Advances in Neural Information Processing Systems (NeurIPS)}
+}
+</bibtext>
+
+
+**Disentangling the Mechanisms Behind Implicit Regularization in SGD**   
+Zachary Novack, Simran Kaur, Tanya Marwah, Saurabh Garg, Zachary Lipton   
+<span style="color:red">Spotlight</span> at NeurIPS Workshop on The Benefits of Higher-Order Optimization in Machine Learning, 2022   
+
 
 
 **Deconstructing Distributions: A Pointwise Framework of Learning**  
@@ -88,7 +104,7 @@ NeurIPS Workshop on Distribution Shifts (DistShift), 2022
 Saurabh Garg, Sivaraman Balakrishnan, Zachary Lipton, Behnam Neyshabur, Hanie Sedghi  
 NeurIPS Workshop on Distribution Shift (DistShift), 2021   
 International Conference on Learning Representations (ICLR), 2022   
-<span style="color:blue">[Paper](https://arxiv.org/abs/2201.04234)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2022_ATC_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2022_ATC_bib'))</span>
+<span style="color:blue">[Paper](https://arxiv.org/abs/2201.04234)</span> / <span style="color:blue">[Code](https://github.com/saurabhgarg1996/ATC_code)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('garg2022_ATC_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2022_ATC_bib'))</span>
 <p><i id="garg2022_ATC_abs" style="display: none;">Given access to labeled source data and unlabeled target data, we investigate methods to predict target domain performance and find a simple method that does surprisingly well.We also explore the theoretical foundations of the problem, proving that identifying the accuracy is just as hard as identifying the optimal predictor. </i></p>
 <bibtext xml:space="preserve" id="garg2022_ATC_bib" style="display: none;">
 @inproceedings{garg2022ATC, <br>
