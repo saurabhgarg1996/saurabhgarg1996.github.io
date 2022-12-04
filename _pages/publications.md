@@ -8,7 +8,7 @@ urlcolor: blue
 
 You can also find publications on my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en")</span> profile. 
 
-##Preprints
+## Preprints
 
 **RLSbench: A Large-Scale Empirical Study of Domain Adaptation Under Relaxed Label Shift**  
 Saurabh Garg, Nick Erickson, James Sharpnack, Alex Smola, Siva Balakrishnan,  Zachary Lipton  
@@ -55,7 +55,7 @@ Zachary Novack, Simran Kaur, Tanya Marwah, Saurabh Garg, Zachary Lipton
 <span style="color:red">Spotlight</span> at NeurIPS Workshop on The Benefits of Higher-Order Optimization in Machine Learning, 2022
 
 
-##Publications
+## Publications
 
 **Domain Adaptation under Open Set Label Shift**    
 Saurabh Garg, Sivaraman Balakrishnan, Zachary C. Lipton    
