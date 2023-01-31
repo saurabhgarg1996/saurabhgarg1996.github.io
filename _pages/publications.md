@@ -16,7 +16,7 @@ NeurIPS Workshop on Distribution Shifts (DistShift), 2022
 
 
 **Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms**  
-Dheeraj Baby*, Saurabh Garg*, Thomson Yen*, Sivaraman Balakrishnan, Zachary Lipton, Yu-Xiang Wang   
+Dheeraj Baby\*, Saurabh Garg\*, Thomson Yen\*, Sivaraman Balakrishnan, Zachary Lipton, Yu-Xiang Wang   
 
 
 **Downstream Datasets Make Surprisingly Good Pretraining Corpora**     
