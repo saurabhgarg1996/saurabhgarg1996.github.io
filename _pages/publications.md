@@ -15,6 +15,10 @@ Saurabh Garg, Nick Erickson, James Sharpnack, Alex Smola, Siva Balakrishnan,  Za
 NeurIPS Workshop on Distribution Shifts (DistShift), 2022
 
 
+**Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms**  
+Dheeraj Baby*, Saurabh Garg*, Thomson Yen*, Sivaraman Balakrishnan, Zachary Lipton, Yu-Xiang Wang   
+
+
 **Downstream Datasets Make Surprisingly Good Pretraining Corpora**     
 Kundan Krishna, Saurabh Garg, Jeffrey Bigham, Zachary Lipton   
 NeurIPS Workshop on Transfer Learning for NLP, 2022     
@@ -30,32 +34,45 @@ NeurIPS Workshop on Transfer Learning for NLP, 2022
 </bibtext>
 
 
-**Deconstructing Distributions: A Pointwise Framework of Learning**   
-Gal Kaplun\*, Nikhil Ghosh\*, Saurabh Garg, Boaz Barak, Preetum Nakkiran   
-NeurIPS Workshop on Distribution Shifts (DistShift), 2022   
-<span style="color:blue">[Paper](https://arxiv.org/abs/2202.09931)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('kalpun2022_DD_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('kalpun2022_DD_bib'))</span>
-<p><i id="kalpun2022_DD_abs" style="display: none;">We propose a new lens for studying the pointwise performance of learning algorithms which reveals new insights into their behavior and goes beyond traditional notions of in-distribution and "out-of-distribution" learning. </i></p>
-<bibtext xml:space="preserve" id="kalpun2022_DD_bib" style="display: none;">
-@article{kaplun2022deconstructing,     <br>
-  title={Deconstructing Distributions: A Pointwise Framework of Learning},     <br>
-  author={Kaplun, Gal and Ghosh, Nikhil and Garg, Saurabh and Barak, Boaz and Nakkiran, Preetum},      <br>
-  journal={arXiv preprint arXiv:2202.09931},    <br>
-  year={2022}
-}
-</bibtext>
-
 
 
 **CHILS: Zero-shot Image Classification with Hierarchical Label Sets**    
 Zachary Novack, Saurabh Garg, Zachary Lipton
 
 
-**Disentangling the Mechanisms Behind Implicit Regularization in SGD**    
-Zachary Novack, Simran Kaur, Tanya Marwah, Saurabh Garg, Zachary Lipton    
-<span style="color:red">Spotlight</span> at NeurIPS Workshop on The Benefits of Higher-Order Optimization in Machine Learning, 2022
 
 
 ## Publications
+
+**Deconstructing Distributions: A Pointwise Framework of Learning**   
+Gal Kaplun\*, Nikhil Ghosh\*, Saurabh Garg, Boaz Barak, Preetum Nakkiran   
+NeurIPS Workshop on Distribution Shifts (DistShift), 2022   
+International Conference on Learning Representations (ICLR), 2023    
+<span style="color:blue">[Paper](https://arxiv.org/abs/2202.09931)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('kalpun2022_DD_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('kalpun2022_DD_bib'))</span>
+<p><i id="kalpun2022_DD_abs" style="display: none;">We propose a new lens for studying the pointwise performance of learning algorithms which reveals new insights into their behavior and goes beyond traditional notions of in-distribution and "out-of-distribution" learning. </i></p>
+<bibtext xml:space="preserve" id="kalpun2022_DD_bib" style="display: none;">
+@inproceedings{kaplun2022deconstructing,     <br>
+  title={Deconstructing Distributions: A Pointwise Framework of Learning},     <br>
+  author={Kaplun, Gal and Ghosh, Nikhil and Garg, Saurabh and Barak, Boaz and Nakkiran, Preetum},      <br>
+  booktitle={International Conference on Learning Representations (ICLR)},    <br>
+  year={2022}
+}
+</bibtext>
+
+
+**Disentangling the Mechanisms Behind Implicit Regularization in SGD**    
+Zachary Novack, Simran Kaur, Tanya Marwah, Saurabh Garg, Zachary Lipton    
+<span style="color:red">Spotlight</span> at NeurIPS Workshop on The Benefits of Higher-Order Optimization in Machine Learning, 2022
+International Conference on Learning Representations (ICLR), 2023    
+<span style="color:blue">[Paper](https://arxiv.org/abs/2211.15853)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('novack2023_bib'))</span>
+<bibtext xml:space="preserve" id="novack2023_bib" style="display: none;">
+@inproceedings{novack2023disentangling,     <br>
+  title={Disentangling the Mechanisms Behind Implicit Regularization in SGD},     <br>
+  author={Novack, Zachary and Kaur, Simran and Marwah, Tanya and Garg, Saurabh and Lipton, Zachary,      <br>
+  booktitle={International Conference on Learning Representations (ICLR)},    <br>
+  year={2023}
+}
+</bibtext>
 
 **Domain Adaptation under Open Set Label Shift**    
 Saurabh Garg, Sivaraman Balakrishnan, Zachary C. Lipton    
