@@ -12,7 +12,7 @@ You can also find publications on my <span style="color:blue">[Google Scholar](h
 
 **RLSbench: A Large-Scale Empirical Study of Domain Adaptation Under Relaxed Label Shift**  
 Saurabh Garg, Nick Erickson, James Sharpnack, Alex Smola, Siva Balakrishnan,  Zachary Lipton  
-NeurIPS Workshop on Distribution Shifts (DistShift), 2022
+NeurIPS Workshop on Distribution Shifts (DistShift), 2022    
 <span style="color:blue">[Website](https://sites.google.com/view/rlsbench/)</span> / <span style="color:blue">[Paper](https://arxiv.org/abs/2302.03020)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/RLSbench)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster](https://saurabhgarg1996.github.io/files/rlsbench_poster.pdf)</span> / <span style="color:blue">[Summary](javascript:toggleblock('Garg_2023RLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Garg_2023RLS_bib'))</span>
 <p><i id="Garg_2023RLS_abs" style="display: none;">A large scale study of domain adaptation methods under scenarios where both label distribution and conditionals p(x|y) may shift, highlights brittleness of existing methods and simple fixes that improves the performance.</i></p>
 <bibtext xml:space="preserve" id="Garg_2023RLS_bib" style="display: none;">
