@@ -13,7 +13,16 @@ You can also find publications on my <span style="color:blue">[Google Scholar](h
 **RLSbench: A Large-Scale Empirical Study of Domain Adaptation Under Relaxed Label Shift**  
 Saurabh Garg, Nick Erickson, James Sharpnack, Alex Smola, Siva Balakrishnan,  Zachary Lipton  
 NeurIPS Workshop on Distribution Shifts (DistShift), 2022
-
+<span style="color:blue">[Website](https://sites.google.com/view/rlsbench/)</span> / <span style="color:blue">[Paper](https://arxiv.org/abs/2302.03020)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/RLSbench)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster](https://saurabhgarg1996.github.io/files/rlsbench_poster.pdf)</span> / <span style="color:blue">[Summary](javascript:toggleblock('Garg_2023RLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Garg_2023RLS_bib'))</span>
+<p><i id="Garg_2023RLS_abs" style="display: none;">A large scale study of domain adaptation methods under scenarios where both label distribution and conditionals p(x|y) may shift, highlights brittleness of existing methods and simple fixes that improves the performance.</i></p>
+<bibtext xml:space="preserve" id="Garg_2023RLS_bib" style="display: none;">
+@article{garg2023RLSBench,     <br>
+  title={RLSbench: Domain Adaptation Under Relaxed Label Shift},     <br>
+  author={Garg, Saurabh and Erickson, Nick and Sharpnack, James and Smola, Alex and Balakrishnan, Sivaraman and Lipton, Zachary},    <br> 
+  year={2023},     <br>
+  journal={arXiv preprint arXiv:2302.03020}        <br> 
+}
+</bibtext>
 
 **Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms**  
 Dheeraj Baby\*, Saurabh Garg\*, Thomson Yen\*, Sivaraman Balakrishnan, Zachary Lipton, Yu-Xiang Wang   
