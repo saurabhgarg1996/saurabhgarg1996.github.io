@@ -71,7 +71,7 @@ International Conference on Learning Representations (ICLR), 2023
 
 **Disentangling the Mechanisms Behind Implicit Regularization in SGD**    
 Zachary Novack, Simran Kaur, Tanya Marwah, Saurabh Garg, Zachary Lipton    
-<span style="color:red">Spotlight</span> at NeurIPS Workshop on The Benefits of Higher-Order Optimization in Machine Learning, 2022
+<span style="color:red">Spotlight</span> at NeurIPS Workshop on The Benefits of Higher-Order Optimization in Machine Learning, 2022     
 International Conference on Learning Representations (ICLR), 2023    
 <span style="color:blue">[Paper](https://arxiv.org/abs/2211.15853)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('novack2023_bib'))</span>
 <bibtext xml:space="preserve" id="novack2023_bib" style="display: none;">
