@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Saurabh Garg and I am a fourth year PhD student at Machine Learning Department at CMU where I am advised by [Prof. Zachary Lipton](http://zacklipton.com/) and [Prof. Siva Balakrishnan](http://www.stat.cmu.edu/~siva/). I have also been lucky to collaborate with [Prof. Zico Kolter](https://zicokolter.com/). I am broadly interested in building **robust and deployable machine learning systems** under distribution shift. Machine learning algorithms are typically developed and evaluated under simplistic assumptions that are often violated in practice. I am interested in understanding the behavior of machine learning models in real-world scenarios and building provable methods to make progress towards relaxing simplifying assumptions in order to make robust and trustworthy models.
+Hello! My name is Saurabh Garg and I am a fourth year PhD student at Machine Learning Department at CMU where I am advised by [Prof. Zachary Lipton](http://zacklipton.com/) and [Prof. Siva Balakrishnan](http://www.stat.cmu.edu/~siva/). I have also been lucky to collaborate with [Prof. Zico Kolter](https://zicokolter.com/). I am broadly interested in building **robust and deployable machine learning systems** under distribution shift.
+Machine learning algorithms are typically developed and evaluated under simplistic assumptions that are often violated in practice. I am interested in understanding the behavior of machine learning models in real-world scenarios and building provable methods to make progress towards relaxing simplifying assumptions in order to make robust and trustworthy models. 
+
+My PhD is supported by [JP Morgan AI PhD Fellowship](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship) and [Amazon Graduate Fellowship](https://www.amazon.science/academic-engagements/new-amazon-graduate-research-fellows-announced-at-carnegie-mellon). 
 
 I did my undergrad from IIT Bombay, India with major and honors in CS and minors in Applied Statistics in 2018. After that, I spent one amazing year at Samsung Headquaters, Korea. In the past, I have worked with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen), [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash). 
 
