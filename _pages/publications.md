@@ -10,48 +10,66 @@ You can also find publications on my <span style="color:blue">[Google Scholar](h
 
 ## Preprints
 
-**RLSbench: A Large-Scale Empirical Study of Domain Adaptation Under Relaxed Label Shift**  
-Saurabh Garg, Nick Erickson, James Sharpnack, Alex Smola, Siva Balakrishnan,  Zachary Lipton  
-NeurIPS Workshop on Distribution Shifts (DistShift), 2022    
-<span style="color:blue">[Website](https://sites.google.com/view/rlsbench/)</span> / <span style="color:blue">[Paper](https://arxiv.org/abs/2302.03020)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/RLSbench)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster](https://saurabhgarg1996.github.io/files/rlsbench_poster.pdf)</span> / <span style="color:blue">[Summary](javascript:toggleblock('Garg_2023RLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Garg_2023RLS_bib'))</span>
-<p><i id="Garg_2023RLS_abs" style="display: none;">A large scale study of domain adaptation methods under scenarios where both label distribution and conditionals p(x|y) may shift, highlights brittleness of existing methods and simple fixes that improves the performance.</i></p>
-<bibtext xml:space="preserve" id="Garg_2023RLS_bib" style="display: none;">
-@article{garg2023RLSBench,     <br>
-  title={RLSbench: Domain Adaptation Under Relaxed Label Shift},     <br>
-  author={Garg, Saurabh and Erickson, Nick and Sharpnack, James and Smola, Alex and Balakrishnan, Sivaraman and Lipton, Zachary},    <br> 
-  year={2023},     <br>
-  journal={arXiv preprint arXiv:2302.03020}        <br> 
-}
-</bibtext>
+**Complementary Benefits of Contrastive Learning and Self-Training Under Distribution Shift**     
+Saurabh Garg\*, Amrith Setlur\*, Zachary Lipton, Sivaraman Balakrishnan, Virginia Smith, Aditi Raghunathan     
+
 
 **Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms**  
 Dheeraj Baby\*, Saurabh Garg\*, Thomson Yen\*, Sivaraman Balakrishnan, Zachary Lipton, Yu-Xiang Wang   
 
 
-**Downstream Datasets Make Surprisingly Good Pretraining Corpora**     
-Kundan Krishna, Saurabh Garg, Jeffrey Bigham, Zachary Lipton   
-NeurIPS Workshop on Transfer Learning for NLP, 2022     
+**(Almost) Provable Error Bounds Under Distribution Shift via Disagreement Discrepancy**   
+Elan Rosenfeld, Saurabh Garg    
+
+
+## Publications
+
+
+**RLSbench: A Large-Scale Empirical Study of Domain Adaptation Under Relaxed Label Shift**
+Saurabh Garg, Nick Erickson, James Sharpnack, Alex Smola, Siva Balakrishnan,  Zachary Lipton
+NeurIPS Workshop on Distribution Shifts (DistShift), 2022
+International Conference on Machine Learning, 2023
+<span style="color:blue">[Website](https://sites.google.com/view/rlsbench/)</span> / <span style="color:blue">[Paper](https://arxiv.org/abs/2302.03020)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/RLSbench)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster](https://saurabhgarg1996.github.io/files/rlsbench_poster.pdf)</span> / <span style="color:blue">[Summary](javascript:toggleblock('Garg_2023RLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Garg_2023RLS_bib'))</span>
+<p><i id="Garg_2023RLS_abs" style="display: none;">A large scale study of domain adaptation methods under scenarios where both label distribution and conditionals p(x|y) may shift, highlights brittleness of existing methods and simple fixes that improves the performance.</i></p>
+<bibtext xml:space="preserve" id="Garg_2023RLS_bib" style="display: none;">
+@inproceedings{garg2023RLSBench,     <br>
+  title={RLSbench: Domain Adaptation Under Relaxed Label Shift},     <br>
+  author={Garg, Saurabh and Erickson, Nick and Sharpnack, James and Smola, Alex and Balakrishnan, Sivaraman and Lipton, Zachary},    <br>
+  year={2023},     <br>
+  booktitle={International Conference on Machine Learning (ICML)}
+}
+</bibtext>
+
+**Downstream Datasets Make Surprisingly Good Pretraining Corpora**
+Kundan Krishna, Saurabh Garg, Jeffrey Bigham, Zachary Lipton
+NeurIPS Workshop on Transfer Learning for NLP, 2022
 <span style="color:blue">[Paper](https://arxiv.org/abs/2209.14389)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('kundan_2022_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('kundan_2022_bib'))</span>
 <p><i id="kundan_2022_abs" style="display: none;">We observe that pretraining only on the downstream dataset can perform comparably or often even better than pretraining on a huge upstream corpora.  </i></p>
 <bibtext xml:space="preserve" id="kundan_2022_bib" style="display: none;">
-@article{kundan2022selfpretraining,     <br>
+@inproceedings{kundan2022selfpretraining,     <br>
   title={Downstream Datasets Make Surprisingly Good Pretraining Corpora},     <br>
   author={Krishna, Kundan and Garg, Saurabh and Bigham, Jeffrey and Lipton, Zachary},      <br>
-  journal={arXiv preprint arXiv:2209.14389},    <br>
-  year={2022}
+  booktitle={Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},    <br>
+  year={2023}
 }
 </bibtext>
 
 
+**CHILS: Zero-shot Image Classification with Hierarchical Label Sets**
+Zachary Novack, Julian McAuley  Zachary Lipton, Saurabh Garg  
+First Workshop on Multimodal Representation Learning at ICLR, 2023   
+International Conference on Machine Learning, 2023 
+<span style="color:blue">[Paper](https://arxiv.org/abs/2302.02551)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/CHILS)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('Novack_2023chils_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Novack_2023chils_bib'))</span>
+<p><i id="Novack_2023chils_abs" style="display: none;">This work introduces CHiLS, a strategy for zero-shot classification to improve CLIP-like models that focuses on improving class names and utilizes implicit semantic hierarchies to enhance accuracy without requiring additional training.</i></p>
+<bibtext xml:space="preserve" id="Novack_2023chils_bib" style="display: none;">
+@inproceedings{novack2023chils,     <br>
+  title={CHILS: Zero-shot Image Classification with Hierarchical Label Sets},     <br>
+  author={Novack, Zachary and McAuley, Julian and Lipton, Zachary C and Garg, Saurabh},    <br>
+  year={2023},     <br>
+  booktitle={International Conference on Machine Learning (ICML)}
+}
+</bibtext>
 
-
-**CHILS: Zero-shot Image Classification with Hierarchical Label Sets**    
-Zachary Novack, Saurabh Garg, Zachary Lipton
-
-
-
-
-## Publications
 
 **Deconstructing Distributions: A Pointwise Framework of Learning**   
 Gal Kaplun\*, Nikhil Ghosh\*, Saurabh Garg, Boaz Barak, Preetum Nakkiran   
