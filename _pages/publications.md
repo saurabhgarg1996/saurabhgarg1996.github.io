@@ -56,7 +56,7 @@ Proceedings of the 61th Annual Meeting of the Association for Computational Ling
 </bibtext>
 
 
-**CHILS: Zero-shot Image Classification with Hierarchical Label Sets**
+**CHILS: Zero-shot Image Classification with Hierarchical Label Sets**     
 Zachary Novack, Julian McAuley  Zachary Lipton, Saurabh Garg  
 First Workshop on Multimodal Representation Learning at ICLR, 2023   
 International Conference on Machine Learning, 2023      
