@@ -16,7 +16,7 @@ Saurabh Garg\*, Amrith Setlur\*, Zachary Lipton, Sivaraman Balakrishnan, Virgini
 
 **Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms**  
 Dheeraj Baby\*, Saurabh Garg\*, Thomson Yen\*, Sivaraman Balakrishnan, Zachary Lipton, Yu-Xiang Wang   
-<span style="color:blue">[Paper](https://arxiv.org/abs/2305.19570)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/OnlineLabelShift)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('Baby_2023OLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Garg_2023RLS_bib'))</span>
+<span style="color:blue">[Paper](https://arxiv.org/abs/2305.19570)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/OnlineLabelShift)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('Baby_2023OLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Baby_2023OLS_bib'))</span>
 <p><i id="Baby_2023OLS_abs" style="display: none;">The paper presents new algorithms that adapt to shifting label distributions in supervised and unsupervised online learning settings, ensuring optimal dynamic regret without knowing the extent of label distribution drift, and improving accuracy by 1-3% in various scenarios while remaining sample and computationally efficient.</i></p>
 <bibtext xml:space="preserve" id="Baby_2023OLS_bib" style="display: none;">
 @article{baby2023online,    <br>
