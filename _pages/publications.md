@@ -35,7 +35,7 @@ Elan Rosenfeld, Saurabh Garg
 @article{rosenfeld2023almost,     <br>
 title={(Almost) Provable Error Bounds Under Distribution Shift via Disagreement Discrepancy},      <br>
 author={Rosenfeld, Elan and Garg, Saurabh},     <br>  
-year={2023},
+year={2023},    <br>
 journal={arXiv:2305.19570}
 </bibtext>
 
