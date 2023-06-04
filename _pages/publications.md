@@ -30,7 +30,7 @@ Dheeraj Baby\*, Saurabh Garg\*, Thomson Yen\*, Sivaraman Balakrishnan, Zachary L
 **(Almost) Provable Error Bounds Under Distribution Shift via Disagreement Discrepancy**   
 Elan Rosenfeld, Saurabh Garg    
 <span style="color:blue">[Paper](https://arxiv.org/abs/2306.00312)</span> / <span style="color:blue">[Code](https://github.com/erosenfeld/disagree_discrep)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('Rosenfeld_2023dis_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Rosenfeld_2023dis_bib'))</span>
-<p><i id="Rosenfeld_2023dis_abs" style="display: none;">The paper introduces a new upper error bound for deep neural networks under distribution shifts, utilizing unlabeled test data, an intuitive condition, and a novel `disagreement loss', providing reliable and tight error bounds. </i></p>
+<p><i id="Rosenfeld_2023dis_abs" style="display: none;">The paper introduces a new lower bound on error for deep neural networks under distribution shifts, utilizing unlabeled test data, an intuitive condition, and a novel `disagreement loss', providing reliable and tight error bounds. </i></p>
 <bibtext xml:space="preserve" id="Rosenfeld_2023dis_bib" style="display: none;">
 @article{rosenfeld2023almost,     <br>
 title={(Almost) Provable Error Bounds Under Distribution Shift via Disagreement Discrepancy},      <br>
