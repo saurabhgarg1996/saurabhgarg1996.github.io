@@ -36,6 +36,10 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td> <b>June 2023:</b> </td> <td> Excited to be interning with [Fartash](http://www.cs.toronto.edu/~faghri/), [Mehrdad](https://farajtabar.github.io/) and [Hadi](https://scholar.google.com/citations?user=besz69AAAAAJ&hl=en) at Apple, Seattle! </td> </tr>
+<tr><td> <b>May 2023:</b> </td> <td> We will be presenting our work on [Downstream Datasets Make Surprisingly Good Pretraining Corpora](https://arxiv.org/abs/2209.14389) at ACL 2023.</td> </tr>
+<tr><td> <b>May 2023:</b> </td> <td> We will be presenting two papers at ICML 2023: (i) [RSLbench](https://sites.google.com/view/rlsbench/); (ii) [CHILS](https://arxiv.org/abs/2302.02551).</td> </tr>
+<tr><td> <b>Jan 2023:</b> </td> <td> Our work on (i) [Deconstructing Distributions](https://arxiv.org/abs/2202.09931); and (ii) [Understanding noise in SGD](https://arxiv.org/abs/2211.15853) got accepted at ICLR 2023 </td> </tr>
 <tr><td> <b> Sept 2022:</b> </td> <td> Our work on (i) <a href="https://saurabhgarg1996.github.io/publications/">Domain adaptation under Open Set Label Shift</a>, (ii) <a href="https://saurabhgarg1996.github.io/publications/">Unsupervised Learning under Latent Label Shift</a>, and (iii) <a href="https://saurabhgarg1996.github.io/publications">Characterizing Datapoints via Second-Split Forgetting</a> got accepted at NeurIPS 2022.</td></tr>  
 <tr><td> <b> July 2022:</b> </td> <td> We are organizing <a href="https://sites.google.com/view/icml-2022-pods">Principles of Distribution Shift (PODS)</a> workshop at ICML, 2022. </td> </tr>  
 <tr><td> <b> March 2022:</b> </td> <td> Honored to receive the <a href="https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship">JP Morgan AI PhD Fellowship</a> and <a href="https://www.amazon.science/academic-engagements/new-amazon-graduate-research-fellows-announced-at-carnegie-mellon">Amazon Graduate Fellowship</a>. </td> </tr>  
