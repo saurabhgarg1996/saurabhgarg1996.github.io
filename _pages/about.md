@@ -37,8 +37,8 @@ table, tr, td {
        <col span="1" style="width: 88%;">
 </colgroup>
 <tr><td> <b>June 2023:</b> </td> <td> Excited to be interning with <a href="http://www.cs.toronto.edu/~faghri/">Fartash</a>, <a href="https://farajtabar.github.io/">Mehrdad</a> and <a href="https://scholar.google.com/citations?user=besz69AAAAAJ&hl=en">Hadi</a> at Apple, Seattle! </td> </tr>
-<tr><td> <b>May 2023:</b> </td> <td> We will be presenting our work on <a href="https://arxiv.org/abs/2209.14389 at ACL 2023">Downstream Datasets Make Surprisingly Good Pretraining Corpora</a>.</td> </tr>
-<tr><td> <b>May 2023:</b> </td> <td> We will be presenting two papers at ICML 2023: (i) <a href="https://sites.google.com/view/rlsbench/">RLSbench</a>; (ii) <a href="https://arxiv.org/abs/2302.02551">CHILS</a> .</td> </tr>
+<tr><td> <b>May 2023:</b> </td> <td> We will be presenting our work on <a href="https://arxiv.org/abs/2209.14389 at ACL 2023">Downstream Datasets Make Surprisingly Good Pretraining Corpora</a> at ACL 2023</td> </tr>
+<tr><td> <b>May 2023:</b> </td> <td> We will be presenting two papers at ICML 2023: (i) <a href="https://sites.google.com/view/rlsbench/">RLSbench</a>; (ii) <a href="https://arxiv.org/abs/2302.02551">CHILS</a></td></tr>
 <tr><td> <b>Jan 2023:</b> </td> <td> Our work on (i) <a href="https://arxiv.org/abs/2202.09931">Deconstructing Distributions</a>; and (ii) <a href="https://arxiv.org/abs/2211.15853">Understanding SGD Noise</a> got accepted at ICLR 2023 </td> </tr>
 <tr><td> <b> Sept 2022:</b> </td> <td> Our work on (i) <a href="https://saurabhgarg1996.github.io/publications/">Domain adaptation under Open Set Label Shift</a>, (ii) <a href="https://saurabhgarg1996.github.io/publications/">Unsupervised Learning under Latent Label Shift</a>, and (iii) <a href="https://saurabhgarg1996.github.io/publications">Characterizing Datapoints via Second-Split Forgetting</a> got accepted at NeurIPS 2022.</td></tr>  
 <tr><td> <b> July 2022:</b> </td> <td> We are organizing <a href="https://sites.google.com/view/icml-2022-pods">Principles of Distribution Shift (PODS)</a> workshop at ICML, 2022. </td> </tr>  
