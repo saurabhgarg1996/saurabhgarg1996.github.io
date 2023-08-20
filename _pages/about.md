@@ -36,7 +36,6 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> <b>June 2023:</b> </td> <td> Excited to be interning with <a href="http://www.cs.toronto.edu/~faghri/">Fartash</a>, <a href="https://farajtabar.github.io/">Mehrdad</a> and <a href="https://scholar.google.com/citations?user=besz69AAAAAJ&hl=en">Hadi</a> at Apple, Seattle! </td> </tr>
 <tr><td> <b>May 2023:</b> </td> <td> We will be presenting our work on <a href="https://arxiv.org/abs/2209.14389 at ACL 2023">Downstream Datasets Make Surprisingly Good Pretraining Corpora</a> at ACL 2023</td> </tr>
 <tr><td> <b>May 2023:</b> </td> <td> We will be presenting two papers at ICML 2023: (i) <a href="https://sites.google.com/view/rlsbench/">RLSbench</a>; (ii) <a href="https://arxiv.org/abs/2302.02551">CHILS</a></td></tr>
 <tr><td> <b>Jan 2023:</b> </td> <td> Our work on (i) <a href="https://arxiv.org/abs/2202.09931">Deconstructing Distributions</a>; and (ii) <a href="https://arxiv.org/abs/2211.15853">Understanding SGD Noise</a> got accepted at ICLR 2023 </td> </tr>
