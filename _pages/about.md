@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Saurabh Garg and I am a fifth year PhD student at Machine Learning Department at CMU where I am advised by [Prof. Zachary Lipton](http://zacklipton.com/) and [Prof. Siva Balakrishnan](http://www.stat.cmu.edu/~siva/). I have also been lucky to collaborate with [Prof. Zico Kolter](https://zicokolter.com/). I am broadly interested in building **robust and deployable machine learning systems** under distribution shift, now with focus on large language models and multimodal models, e.g., CLIP.
+Hello! My name is Saurabh Garg and I am a fifth year PhD student at Machine Learning Department at CMU where I am advised by [Prof. Zachary Lipton](http://zacklipton.com/) and [Prof. Siva Balakrishnan](http://www.stat.cmu.edu/~siva/). I have also been lucky to collaborate with [Prof. Zico Kolter](https://zicokolter.com/) and [Prof. Aditi Raghunathan](https://www.cs.cmu.edu/~aditirag/). I am broadly interested in building **robust and deployable machine learning systems** under distribution shift, now with a focus on large language models and multimodal models, e.g., CLIP.
 <!---
 Machine learning algorithms are typically developed and evaluated under simplistic assumptions that are often violated in practice. I am interested in understanding the behavior of machine learning models in real-world scenarios and building provable methods to make progress towards relaxing simplifying assumptions in order to make robust and trustworthy models. 
 -->
