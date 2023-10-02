@@ -8,38 +8,41 @@ urlcolor: blue
 
 You can also find publications on my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en")</span> profile. 
 
-## Preprints
+
+
+## Publications
 
 **Complementary Benefits of Contrastive Learning and Self-Training Under Distribution Shift**     
 Saurabh Garg\*, Amrith Setlur\*, Zachary Lipton, Sivaraman Balakrishnan, Virginia Smith, Aditi Raghunathan     
+Advances in Neural Information Processing Systems (NeurIPS), 2023    
 
 
 **Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms**  
 Dheeraj Baby\*, Saurabh Garg\*, Thomson Yen\*, Sivaraman Balakrishnan, Zachary Lipton, Yu-Xiang Wang   
+<span style="color:red">Spotlight</span> at Advances in Neural Information Processing Systems (NeurIPS), 2023    
 <span style="color:blue">[Paper](https://arxiv.org/abs/2305.19570)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/OnlineLabelShift)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('Baby_2023OLS_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Baby_2023OLS_bib'))</span>
 <p><i id="Baby_2023OLS_abs" style="display: none;">The paper presents new algorithms that adapt to shifting label distributions in supervised and unsupervised online learning settings, ensuring optimal dynamic regret without knowing the extent of label distribution drift, and improving accuracy by 1-3% in various scenarios while remaining sample and computationally efficient.</i></p>
 <bibtext xml:space="preserve" id="Baby_2023OLS_bib" style="display: none;">
-@article{baby2023online,    <br>
+@inproceedings{baby2023online,    <br>
   title={Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms},       <br>
   author={Baby, Dheeraj and Garg, Saurabh and Yen, Tzu-Ching and Balakrishnan, Sivaraman and Lipton, Zachary Chase and Wang, Yu-Xiang},     <br>
-  journal={arXiv preprint arXiv:2305.19570},      <br>
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},      <br>
   year={2023}}
 </bibtext>
 
 
 **(Almost) Provable Error Bounds Under Distribution Shift via Disagreement Discrepancy**   
 Elan Rosenfeld, Saurabh Garg    
+Advances in Neural Information Processing Systems (NeurIPS), 2023    
 <span style="color:blue">[Paper](https://arxiv.org/abs/2306.00312)</span> / <span style="color:blue">[Code](https://github.com/erosenfeld/disagree_discrep)</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('Rosenfeld_2023dis_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Rosenfeld_2023dis_bib'))</span>
 <p><i id="Rosenfeld_2023dis_abs" style="display: none;">The paper introduces a new upper bound on the error for deep neural networks under distribution shifts, utilizing unlabeled test data, an intuitive condition, and a novel `disagreement loss', providing reliable and tight error bounds. </i></p>
 <bibtext xml:space="preserve" id="Rosenfeld_2023dis_bib" style="display: none;">
-@article{rosenfeld2023almost,     <br>
+@inproceedings{rosenfeld2023almost,     <br>
 title={(Almost) Provable Error Bounds Under Distribution Shift via Disagreement Discrepancy},      <br>
 author={Rosenfeld, Elan and Garg, Saurabh},     <br>  
 year={2023},    <br>
-journal={arXiv:2305.19570}
+booktitle={Advances in Neural Information Processing Systems (NeurIPS)}}
 </bibtext>
-
-## Publications
 
 
 **RLSbench: A Large-Scale Empirical Study of Domain Adaptation Under Relaxed Label Shift**       
