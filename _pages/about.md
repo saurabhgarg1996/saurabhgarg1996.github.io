@@ -38,6 +38,8 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td> <b>Oct 2023:</b> </td> <td> My Apple internship work on continual training for CLIP models is out now: <a href="https://arxiv.org/abs/2310.16226">TiC-CLIP: Continual Training of CLIP Models</a>. Quite excited about this work! Short version will appear as Oral at NeurIPS Dist Shift Workshop 2023. </td></tr>
+<tr><td> <b>Sept 2023:</b> </td> <td> Our work on (i) Complementary Benefits of Contrastive Learning and Self-Training Under Distribution Shift (ii) <a href="https://arxiv.org/abs/2305.19570">Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms</a> (as Spotlight); and (iii) <a href="https://arxiv.org/abs/2306.00312">(Almost) Provable Error Bounds Under Distribution Shift via Disagreement Discrepancy</a> got accepted at NeurIPS 2023. See you in New Orleans!</td> </tr>
 <tr><td> <b>May 2023:</b> </td> <td> We will be presenting our work on <a href="https://arxiv.org/abs/2209.14389 at ACL 2023">Downstream Datasets Make Surprisingly Good Pretraining Corpora</a> at ACL 2023</td> </tr>
 <tr><td> <b>May 2023:</b> </td> <td> We will be presenting two papers at ICML 2023: (i) <a href="https://sites.google.com/view/rlsbench/">RLSbench</a>; (ii) <a href="https://arxiv.org/abs/2302.02551">CHILS</a></td></tr>
 <tr><td> <b>Jan 2023:</b> </td> <td> Our work on (i) <a href="https://arxiv.org/abs/2202.09931">Deconstructing Distributions</a>; and (ii) <a href="https://arxiv.org/abs/2211.15853">Understanding SGD Noise</a> got accepted at ICLR 2023 </td> </tr>

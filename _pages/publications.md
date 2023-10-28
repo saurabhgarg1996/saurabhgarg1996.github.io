@@ -8,6 +8,25 @@ urlcolor: blue
 
 You can also find publications on my <span style="color:blue">[Google Scholar](https://scholar.google.com/citations?user=SAnJ1hIAAAAJ&hl=en")</span> profile. 
 
+## Preprint
+
+**TiC-CLIP: Continual Training of CLIP Models**     
+Saurabh Garg, Mehrdad Farajtabar, Hadi Pouransari, Raviteja Vemulapalli, Sachin Mehta, Oncel Tuzel, Vaishaal Shankar, Fartash Faghri    
+<span style="color:red">Oral</span> at NeurIPS DistShift Workshop, 2023    
+<span style="color:blue">[Paper](https://arxiv.org/abs/2310.16226)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('Garg_2023TicCLIP_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Garg_2023TicCLIP_bib'))</span>
+<p><i id="Garg_2023TicCLIP_abs" style="display: none;">We highlight temporal distribution shift problems with OpenAI CLIP models and propose a continual learning benchmark with 12.7 B image-text pairs with time metadata for continual training of  CLIP.</i></p>
+<bibtext xml:space="preserve" id="Garg_2023TicCLIP_bib" style="display: none;">
+@articles{garg2023ticclip,    <br>
+  title={TiC-CLIP: Continual Training of CLIP Models},       <br>
+  author={ Garg, Saurabh and Farajtabar, Mehrdad and Pouransari, Hadi and Vemulapalli, Raviteja  and Mehta, Sachin and Tuzel , Oncel and Shankar, Faghri, Fartash },     <br>
+  journal={arxiv preprint arxiv:2310.16226},    <br>
+  year={2023}}
+</bibtext>
+
+
+**Generate to Discriminate: Expert Routing for Continual Learning**     
+Yewon Byun, Sanket Vaibhav Mehta, Saurabh Garg, Emma Strubell, Bryan Wilder, Zachary Chase Lipton
+
 
 
 ## Publications
