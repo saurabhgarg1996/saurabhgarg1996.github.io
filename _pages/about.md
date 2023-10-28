@@ -16,7 +16,7 @@ My PhD is supported by Bloomberg PhD Fellowship, [JP Morgan AI PhD Fellowship](h
 I did my undergrad from IIT Bombay, India with major and honors in CS and minors in Applied Statistics in 2018. After that, I spent one amazing year at Samsung Headquaters, Korea. In the past, I have worked with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen), [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash). 
 
 
-**I am on job market now and I am actively looking for full-time positions!**  
+**I am on job market now and I am actively seeking full-time positions!**  
 
 **Research/Mentorship Opportunities**: I am always happy to discuss new research directions; If you're a student at CMU interested in working on (fundamentals of) distribution shift related problems, in particular, domain adaptation or transfer learning, reach out to me at sgarg2@andrew.cmu.edu. 
 
