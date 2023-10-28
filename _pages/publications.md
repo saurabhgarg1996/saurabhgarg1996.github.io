@@ -18,7 +18,7 @@ Saurabh Garg, Mehrdad Farajtabar, Hadi Pouransari, Raviteja Vemulapalli, Sachin 
 <bibtext xml:space="preserve" id="Garg_2023TicCLIP_bib" style="display: none;">
 @articles{garg2023ticclip,    <br>
   title={TiC-CLIP: Continual Training of CLIP Models},       <br>
-  author={ Garg, Saurabh and Farajtabar, Mehrdad and Pouransari, Hadi and Vemulapalli, Raviteja  and Mehta, Sachin and Tuzel , Oncel and Shankar, Faghri, Fartash },     <br>
+  author={ Garg, Saurabh and Farajtabar, Mehrdad and Pouransari, Hadi and Vemulapalli, Raviteja  and Mehta, Sachin and Tuzel , Oncel and Shankar, Vaishaal and Faghri, Fartash },     <br>
   journal={arxiv preprint arxiv:2310.16226},    <br>
   year={2023}}
 </bibtext>
