@@ -43,7 +43,7 @@ Saurabh Garg\*, Amrith Setlur\*, Zachary Lipton, Sivaraman Balakrishnan, Virgini
 Advances in Neural Information Processing Systems (NeurIPS), 2023        
 <span style="color:blue">[Paper](https://arxiv.org/abs/2312.03318)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/RLSbench/tree/main/)</span> / <span style="color:blue">[Talk](https://neurips.cc/virtual/2023/poster/70149)</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('Garg_2023STOC_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2023complementary_bib'))</span>
 <p><i id="Garg_2023STOC_abs" style="display: none;">Our work examines the synergy between self-training and contrastive learning, finding complementary benefits under distribution shift setups and up to 8% accuracy improvement in certain datasets.</i></p>
-<bibtext xml:space="preserve" id="garg2024complementary_bib" style="display: none;">
+<bibtext xml:space="preserve" id="garg2023complementary_bib" style="display: none;">
 @inproceedings{garg2023complementary,    <br>
   title={Complementary Benefits of Contrastive Learning and Self-Training Under Distribution Shift},    <br>
   author={Garg, Saurabh and Setlur, Amrith and Lipton, Zachary and Balakrishnan, Sivaraman and Smith, Virginia and Raghunathan, Aditi},    <br>
