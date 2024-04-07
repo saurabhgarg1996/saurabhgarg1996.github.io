@@ -10,30 +10,46 @@ You can also find publications on my <span style="color:blue">[Google Scholar](h
 
 ## Preprint
 
-**TiC-CLIP: Continual Training of CLIP Models**     
-Saurabh Garg, Mehrdad Farajtabar, Hadi Pouransari, Raviteja Vemulapalli, Sachin Mehta, Oncel Tuzel, Vaishaal Shankar, Fartash Faghri    
-<span style="color:red">Oral</span> at NeurIPS DistShift Workshop, 2023    
-<span style="color:blue">[Paper](https://arxiv.org/abs/2310.16226)</span> / <span style="color:blue">[Code]()</span> / <span style="color:blue">[Talk]()</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('Garg_2023TicCLIP_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Garg_2023TicCLIP_bib'))</span>
-<p><i id="Garg_2023TicCLIP_abs" style="display: none;">We highlight temporal distribution shift problems with OpenAI CLIP models and propose a continual learning benchmark with 12.7 B image-text pairs with time metadata for continual training of  CLIP.</i></p>
-<bibtext xml:space="preserve" id="Garg_2023TicCLIP_bib" style="display: none;">
-@articles{garg2023ticclip,    <br>
-  title={TiC-CLIP: Continual Training of CLIP Models},       <br>
-  author={ Garg, Saurabh and Farajtabar, Mehrdad and Pouransari, Hadi and Vemulapalli, Raviteja  and Mehta, Sachin and Tuzel , Oncel and Shankar, Vaishaal and Faghri, Fartash },     <br>
-  journal={arxiv preprint arxiv:2310.16226},    <br>
-  year={2023}}
-</bibtext>
+**Prompting is a Double-Edged Sword: Improving Worst-Group Robustness of Foundation Models**     
+Amrith Setlur\*, Saurabh Garg\*, Virginia Smith, Sergey Levine
 
 
 **Generate to Discriminate: Expert Routing for Continual Learning**     
 Yewon Byun, Sanket Vaibhav Mehta, Saurabh Garg, Emma Strubell, Bryan Wilder, Zachary Chase Lipton
 
 
+**PRO: Pseudo-label Regularized Optimization on Unlabeled Test Data**      
+Tzu-Ching Yen, Saurabh Garg, Alex Smola, Zachary Chase Lipton, Francesco Locatello
+
+
 
 ## Publications
 
+**TiC-CLIP: Continual Training of CLIP Models**     
+Saurabh Garg, Mehrdad Farajtabar, Hadi Pouransari, Raviteja Vemulapalli, Sachin Mehta, Oncel Tuzel, Vaishaal Shankar, Fartash Faghri    
+<span style="color:red">Oral</span> at NeurIPS DistShift Workshop, 2023    
+<span style="color:blue">[Paper](https://arxiv.org/abs/2310.16226)</span> / <span style="color:blue">[Code](https://github.com/apple/ml-tic-clip)</span> / <span style="color:blue">[Talk](https://neurips.cc/virtual/2023/80550)</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('Garg_2023TicCLIP_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('Garg_2023TicCLIP_bib'))</span>
+<p><i id="Garg_2023TicCLIP_abs" style="display: none;">We highlight temporal distribution shift problems with OpenAI CLIP models and propose a continual learning benchmark with 12.7 B image-text pairs with time metadata for continual training of  CLIP.</i></p>
+<bibtext xml:space="preserve" id="Garg_2023TicCLIP_bib" style="display: none;">
+@inproceedings{garg2023ticclip,    <br>
+  title={TiC-CLIP: Continual Training of CLIP Models},       <br>
+  author={ Garg, Saurabh and Farajtabar, Mehrdad and Pouransari, Hadi and Vemulapalli, Raviteja  and Mehta, Sachin and Tuzel , Oncel and Shankar, Vaishaal and Faghri, Fartash },     <br>
+  booktitle={Internation Conference on Learning Representations},    <br>
+  year={2023}}
+</bibtext>
+
 **Complementary Benefits of Contrastive Learning and Self-Training Under Distribution Shift**     
 Saurabh Garg\*, Amrith Setlur\*, Zachary Lipton, Sivaraman Balakrishnan, Virginia Smith, Aditi Raghunathan     
-Advances in Neural Information Processing Systems (NeurIPS), 2023    
+Advances in Neural Information Processing Systems (NeurIPS), 2023        
+<span style="color:blue">[Paper](https://arxiv.org/abs/2312.03318)</span> / <span style="color:blue">[Code](https://github.com/acmi-lab/RLSbench/tree/main/)</span> / <span style="color:blue">[Talk](https://neurips.cc/virtual/2023/poster/70149)</span> / <span style="color:blue">[Poster]()</span> / <span style="color:blue">[Summary](javascript:toggleblock('Garg_2023STOC_abs'))</span> / <span style="color:blue">[Bibtex](javascript:toggleblock('garg2023complementary_bib'))</span>
+<p><i id="Garg_2023STOC_abs" style="display: none;">.</i>Our work examines the synergy between self-training and contrastive learning, finding complementary benefits under distribution shift setups and up to 8% accuracy improvement in certain datasets.</p>
+<bibtext xml:space="preserve" id="garg2024complementary_bib" style="display: none;">
+@inproceedings{garg2023complementary,    <br>
+  title={Complementary Benefits of Contrastive Learning and Self-Training Under Distribution Shift},    <br>
+  author={Garg, Saurabh and Setlur, Amrith and Lipton, Zachary and Balakrishnan, Sivaraman and Smith, Virginia and Raghunathan, Aditi},    <br>
+  booktitle={Advances in Neural Information Processing Systems},    <br>
+  year={2023}}
+</bibtext>
 
 
 **Online Label Shift: Optimal Dynamic Regret meets Practical Algorithms**  
