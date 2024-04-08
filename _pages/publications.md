@@ -35,7 +35,7 @@ Saurabh Garg, Mehrdad Farajtabar, Hadi Pouransari, Raviteja Vemulapalli, Sachin 
   title={TiC-CLIP: Continual Training of CLIP Models},       <br>
   author={ Garg, Saurabh and Farajtabar, Mehrdad and Pouransari, Hadi and Vemulapalli, Raviteja  and Mehta, Sachin and Tuzel , Oncel and Shankar, Vaishaal and Faghri, Fartash },     <br>
   booktitle={Internation Conference on Learning Representations},    <br>
-  year={2023}}
+  year={2024}}
 </bibtext>
 
 **Complementary Benefits of Contrastive Learning and Self-Training Under Distribution Shift**     
