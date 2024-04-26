@@ -7,18 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Saurabh Garg and I am building next-gen AI at Mistral AI. Previously, I finished my PhD at Machine Learning Department at CMU under [Prof. Zachary Lipton](http://zacklipton.com/) and [Prof. Siva Balakrishnan](http://www.stat.cmu.edu/~siva/). I have also been lucky to collaborate with [Prof. Zico Kolter](https://zicokolter.com/) and [Prof. Aditi Raghunathan](https://www.cs.cmu.edu/~aditirag/). i
-
+Hello! My name is Saurabh Garg and I am building next-geneneration AI models at [Mistral AI](https://mistral.ai/). Previously, I finished my PhD at Machine Learning Department at CMU under [Prof. Zachary Lipton](http://zacklipton.com/) and [Prof. Siva Balakrishnan](http://www.stat.cmu.edu/~siva/). I have also been lucky to collaborate with [Prof. Zico Kolter](https://zicokolter.com/) and [Prof. Aditi Raghunathan](https://www.cs.cmu.edu/~aditirag/).
 <!--- I am broadly interested in building **robust and deployable machine learning systems** under distribution shift, now with a focus on large language models and multimodal models, e.g., CLIP.
 Machine learning algorithms are typically developed and evaluated under simplistic assumptions that are often violated in practice. I am interested in understanding the behavior of machine learning models in real-world scenarios and building provable methods to make progress towards relaxing simplifying assumptions in order to make robust and trustworthy models. 
 -->
-My PhD is supported by Bloomberg PhD Fellowship, [JP Morgan AI PhD Fellowship](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship) and [Amazon Graduate Fellowship](https://www.amazon.science/academic-engagements/new-amazon-graduate-research-fellows-announced-at-carnegie-mellon). 
+My PhD was supported by Bloomberg PhD Fellowship, [JP Morgan AI PhD Fellowship](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship) and [Amazon Graduate Fellowship](https://www.amazon.science/academic-engagements/new-amazon-graduate-research-fellows-announced-at-carnegie-mellon). 
 
-I did my undergrad from IIT Bombay, India with major and honors in CS and minors in Applied Statistics in 2018. After that, I spent one amazing year at Samsung Headquaters, Korea. In the past, I have worked with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen), [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash). 
+I did my undergrad from IIT Bombay, India with major and honors in CS and minors in Applied Statistics in 2018. After that, I spent one amazing year at Samsung Headquaters, Korea. 
+<-- In the past, I have worked with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen), [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash). --> 
 
-<!-- **I am on job market now and I am actively seeking full-time positions!**   -->
+<!-- **I am on job market now and I am actively seeking full-time positions!**  
 
 **Research/Mentorship Opportunities**: I am always happy to discuss new research directions; If you're a student at CMU interested in working on (fundamentals of) distribution shift related problems, in particular, domain adaptation or transfer learning, reach out to me at sgarg2@andrew.cmu.edu. 
+
+--> 
 
 <!---
 I did my undergrad from IIT Bombay, India with major and honors in CS and minors in Applied Statitics in 2018. After that, I spent one amazing year at Samsung Headquaters, Korea. In the past, I have worked with [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash) on building statistical machine learning algorithms for exact MCMC samspling as a part of my Bachelor's thesis. During my stay at IITB, I have also spent major time working with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi) on the problem of building robust language models for code switched speech. I was also fortunate to work with [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen) on building interpretable question answering systems using KG and corpus. 
