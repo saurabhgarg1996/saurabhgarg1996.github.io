@@ -13,7 +13,7 @@ Machine learning algorithms are typically developed and evaluated under simplist
 -->
 My PhD was supported by Bloomberg PhD Fellowship, [JP Morgan AI PhD Fellowship](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship) and [Amazon Graduate Fellowship](https://www.amazon.science/academic-engagements/new-amazon-graduate-research-fellows-announced-at-carnegie-mellon). 
 
-I did my undergrad from IIT Bombay, India with major and honors in CS and minors in Applied Statistics in 2018. After that, I spent one amazing year at Samsung Headquaters, Korea. 
+I did my undergrad from IIT Bombay, India with major and honors in CS and minors in Applied Statistics. After that, I spent one amazing year at Samsung Headquaters, Korea. 
 <!-- In the past, I have worked with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi), [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen), [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash). --> 
 
 <!-- **I am on job market now and I am actively seeking full-time positions!**  
